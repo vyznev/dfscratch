@@ -60,7 +60,7 @@ You're also welcome to contribute code outside your turn, or even without signin
 
 * Lastly, you must not take a week to add only one material. Sorry. I can't really tell you how much you should add, but if you're not comfortable making new objects, you should probably not take a turn. Consider doing a playtest turn instead.
 
-(_To do: add other stuff from the initial forum post here?_)
+_(To do: add other stuff from the initial forum post here?)_
 
 
 ### How does this Git thing work?
@@ -81,7 +81,7 @@ Here's how the GitHub repo is supposed to work:
 
   The nice thing about using Git is that whenever new updates are added to the master branch, you can tell Git to fetch and merge them into your working branch with a few simple commands (or mouse clicks, if you're using a [GUI front-end](http://git-scm.com/downloads/guis)).  Assuming there are no conflicts, everything just works.  (The one exception is if you've edited the exact same part of some file that has also been changed in the upstream repo, in which case you'll need to resolve the conflict by hand.  Then again, you would've had to do the same thing in that case anyway, with or without Git.)
 
-(_To do: need to add some instructions here about how to clone the dfscratch Git repo into your DF folder._)
+_(To do: need to add some instructions here about how to clone the dfscratch Git repo into your DF folder.)_
 
 Links
 -----
@@ -96,7 +96,7 @@ Links
 
 * Things we found useful / Modding resource collection:
 
-  * Perl scripts for editing DF data files: http://www.bay12forums.com/smf/index.php?topic=127552.msg4641172#msg4641172 (_To do: put these in Git._)
+  * Perl scripts for editing DF data files: http://www.bay12forums.com/smf/index.php?topic=127552.msg4641172#msg4641172 _(To do: put these in Git.)_
 
   * Wiki rip reference of modding tokens: http://dffd.wimbli.com/file.php?id=6588
 
