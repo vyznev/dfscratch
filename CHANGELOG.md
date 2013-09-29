@@ -5,6 +5,15 @@ _The entirely player-made universe._
 Change log
 ----------
 
+### Turn 6 (Zanzetkuken)
+
+**What I Added:**
+* All those dragon variants.
+* Lizardfolk, large bipedal lizards, as a playable civilization. This civilization has the child snatcher tags, so all civilizations are hostile to them. (Manual will come later.)
+* Dragonkin, the bipedal draco-morphed lizardfolk. Currently needs an item snatching civilization. I give a later modder freedom to create this civilization.
+* Wandering spirits that are only vulnerable to Aerisium (needs testing). You don't really need to worry about them, though. All they can do is emit a small cloud of ether occasionally.
+
+
 ### Turn 5 (HugoLuman)
 
 -Six new creatures: 2 varieties of dirigible antelope, 4 wildly different Cephalopods

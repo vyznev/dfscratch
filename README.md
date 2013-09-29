@@ -24,5 +24,6 @@ The DF from scratch project was created and is supervised by Halfling.  Raws hav
 * sackhead (SKH) (turn 4)
 * kopout (KPT)
 * HugoLuman (HUGOL) (turn 5)
+* Zanzetkuken (ZTG) (turn 6)
 
 Dwarf Fortress is designed by Tarn and Zach Adams and is copyright (C) 2002–2012 by Tarn Adams.
