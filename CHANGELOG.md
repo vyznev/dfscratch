@@ -5,6 +5,21 @@ _The entirely player-made universe._
 Change log
 ----------
 
+_(Note: This change log is pieced together from notes posted alongside the original release archives. Some entries may be missing or incomplete.)_
+
+### Turn 7 (Reemer30)
+
+* Added two types of cacti to deserts, the spiny cactus and the Dragon's Tail cactus
+* Added a type of fruit to the desert, brewable/edible, and semi-valuable, the heart of the desert
+* Added extra ground cover to the Taigas, along with a fern, edible when cooked, and the frost nettle, which was planned for some kind of fireproofing process
+* Added snowcaps to the taigas, a wide, tall, white tree-like mushroom to the taigas
+* Changed apple tree spawning to temperate only
+* Added purple tea, which is only usable by the hobbits, bushes must be dried before brewed into purple tea
+* Added a Green Sand known as grunstaub
+* Includes the bug fixed version of the latest DFFS raws
+* Now includes Gnorm's Demonic Cherubs
+
+
 ### Turn 6 (Zanzetkuken)
 
 **What I Added:**
