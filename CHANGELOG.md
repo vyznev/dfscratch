@@ -6,7 +6,7 @@ _The entirely player-made universe._
 Change log
 ----------
 
-### Turn 1 (Halfling):
+### Turn 0 (Halfling):
 
 This is a "minimalist" version of DF, created "from scratch", entire raws folder is now 144.3 kB. Fully playable. Intended for building an entirely player-made world on.
 
