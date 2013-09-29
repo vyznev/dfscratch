@@ -1,0 +1,12 @@
+interaction_insect_STL
+
+[OBJECT:INTERACTION] Aasiaats are masters of burrowing into the snow of their habitat to cover their tracks.
+
+[INTERACTION:SNOWBLIND_SPIDER_STL]
+	[I_SOURCE:CREATURE_ACTION]
+	[I_TARGET:A:CREATURE]
+		[IT_LOCATION:CONTEXT_CREATURE]
+		[IT_CANNOT_TARGET_IF_ALREADY_AFFECTED]
+	[I_EFFECT:HIDE]
+		[IE_TARGET:A]
+		[IE_IMMEDIATE]

@@ -1,0 +1,267 @@
+language_formic_STL
+
+[OBJECT:LANGUAGE] ## sorted by symbol
+
+[TRANSLATION:FORMIC_STL]
+
+RACES
+	[T_WORD:HALFLING:harashim]
+
+PLANT
+	[T_WORD:FLAX:hijal]
+	[T_WORD:PUMPKIN:alkaresh]
+	[T_WORD:APPLE_TREE:jabaral]
+
+
+CREATURE
+	[T_WORD:HOUND:amhal]
+	[T_WORD:MALLARD:mallja]
+	[T_WORD:TIGER:alharesh]
+	[T_WORD:DRAGON:jakal]
+	[T_WORD:TIT:huk]
+	[T_WORD:VOLE:jolhala]
+
+ARTIFICE
+	[T_WORD:HAME:kebalat]
+	[T_WORD:BREWED:b'hebal]
+	[T_WORD:HOMEMADE:b'keballal]
+	[T_WORD:PIE:jakat]
+	[T_WORD:TEA:hulak]
+
+ASSERTIVE	
+	[T_WORD:MEAN:mehesh]
+	[T_WORD:GALL:kadal]
+	[T_WORD:MIGHTY:barakhut]
+	[T_WORD:BRAVE:kebelakhut]
+
+AQUATIC
+	[T_WORD:OCEAN:sookalat]
+	[T_WORD:WATERY:b'sook]
+	[T_WORD:BUBBLE:nabal]
+	[T_WORD:BUBBLING:b'nabal]
+	[T_WORD:WAVE:viknabal]
+
+
+
+COLOR
+	[T_WORD:RED:ka]
+	[T_WORD:BLUE:vik]
+	[T_WORD:GREEN:belokh]
+	[T_WORD:WHITE:halal]
+	[T_WORD:BLACK:nebakharat]
+	[T_WORD:DARK:alnebkarat]
+	[T_WORD:BRIGHT:alhalal]
+
+
+DEATH
+	[T_WORD:DEATH:ekbalat]
+	[T_WORD:DEADLY:b'ekbalat]
+	[T_WORD:REAPER:ekbalal]
+	[T_WORD:LETHAL:ektaba]
+	[T_WORD:SKULL:khokh]
+
+
+DOMESTIC
+	[T_WORD:HOME:keballal]
+	[T_WORD:PANTS:habakhir]
+	[T_WORD:COZY:kebnabal]
+	[T_WORD:RUMP:khokh'khebnal]
+	[T_WORD:BAG:khabarak]
+
+
+EARTH
+	[T_WORD:STONE:kohokh]
+	[T_WORD:ROCK:kohbok]
+	[T_WORD:HARD:khokhat]
+	[T_WORD:DIRT:b'hesh]
+	[T_WORD:EARTHY:b'b'hesh]
+
+
+EVIL
+	[T_WORD:EVIL:alnebakharnat]
+	[T_WORD:WICKED:b'alnecbarat]
+	[T_WORD:VILE:khabnaral]
+	[T_WORD:TRAITOR:khur]
+	[T_WORD:LIE:ababalvik]
+
+FLOWERY
+	[T_WORD:BLOSSOM:belokhal]
+	[T_WORD:FLOWERING:b'belokhat]
+	[T_WORD:PETAL:lokhal]
+	[T_WORD:VINE:babkaral]
+
+GOOD
+	[T_WORD:GOOD:babat]
+	[T_WORD:RIGHTEOUS:babal]
+	[T_WORD:PURE:halat]
+	[T_WORD:HEALING:b'kholat]
+	[T_WORD:RADIANT:babkharat]
+	[T_WORD:OATH:halatalvik]
+
+
+HOLY
+	[T_WORD:GOD:hamadrab]
+	[T_WORD:SACRED:drabal]
+	[T_WORD:FAIR:b'halatabab]
+	[T_WORD:ZEALOUS:hamadrabat]
+
+
+LEADER
+	[T_WORD:LORD:hardrabim]
+	[T_WORD:STEWARD:eskhribim]
+	[T_WORD:CHIEF:allet]
+	[T_WORD:HEIR:batalab]
+	[T_WORD:RIGHTFUL:balatab]
+
+
+MAGIC
+	[T_WORD:WITCH:bashnarim]
+	[T_WORD:ENCHANTED:b'bashal]
+	[T_WORD:WITCHED:b'bashnarat]
+	[T_WORD:CURSED:b'bashnebkharal]
+	[T_WORD:FAIRY:minibim]
+
+
+MYSTERY
+	[T_WORD:SECRET:khabalat]
+	[T_WORD:HAZY:abal]
+	[T_WORD:MISTY:b'abalabab]
+	[T_WORD:HIDDEN:abab]
+	[T_WORD:DEEP:sookabab]
+
+
+MYTHIC
+	[T_WORD:HERO:arhallim]
+	[T_WORD:CHAMPION:rhakhalim]
+	[T_WORD:MASTER:batkhalim]
+	[T_WORD:HEROIC:arhallat]
+	[T_WORD:MYTHIC:skhalat]
+
+
+NATURE
+	[T_WORD:FIELD:tabr]
+
+
+NEGATIVE
+	[T_WORD:NOT:ak]
+	[T_WORD:HARDLY:b'akat]
+	[T_WORD:NEITHER:akim]
+	[T_WORD:FALSE:akabab]
+	[T_WORD:WRONG:akabat]
+
+
+OLD
+	[T_WORD:YORE:shalkhal]	
+	[T_WORD:OLD:shalkhat]
+	[T_WORD:ELDER:s'shalkhal]
+	[T_WORD:PAST:b'shalkhat]
+	[T_WORD:YESTER:shalkhaabat]
+
+
+PEACE
+	[T_WORD:LULL:altarab]
+	[T_WORD:PEACEFUL:altarat]
+	[T_WORD:STILL:altarakh]
+	[T_WORD:CALM:altarab]
+	[T_WORD:PEACE:altaral]
+
+
+PRIMITIVE
+	[T_WORD:WILD:haasikh]
+	[T_WORD:BEARD:akhabe]
+	[T_WORD:GOBBLER:s'makrat]
+	[T_WORD:SAVAGE:hasikh]
+	[T_WORD:BARBAROUS:b'haasikhal]
+
+
+PROTECT
+	[T_WORD:SHIELD:albakherat]
+	[T_WORD:GUARDED:b'albakherat]
+	[T_WORD:GUARDIAN:bakherat]
+	[T_WORD:GUARD:danalat]
+	[T_WORD:WALL:albakheratakhab]
+
+
+RESTRAIN
+	[T_WORD:CHAIN:haashat]
+	[T_WORD:LEASHED:b'hashat]
+	[T_WORD:LEASH:hashat]
+	[T_WORD:CUFFED:nebkharakhab]
+	[T_WORD:BOUND:akhabat]
+
+
+ROMANTIC
+	[T_WORD:DARLING:sobkhalim]
+	[T_WORD:BELOVED:b'sobkhalim]
+	[T_WORD:LOVE:sobkhat]
+	[T_WORD:LOVING:b'sobkhal]
+	[T_WORD:PRECIOUS:vakhabal]
+
+SUBORDINATE
+	[T_WORD:DAUGHTER:sharithim]
+	[T_WORD:SON:bakharthim]
+	[T_WORD:CHILD:larvim]
+	[T_WORD:WHELP:nimim]
+	[T_WORD:MOOK:shokhim]
+
+THOUGHT
+	[T_WORD:MIND:jikhat]
+	[T_WORD:BRAIN:khajikat]
+	[T_WORD:PSYCHE:jikhatbal]
+	[T_WORD:WRY:atbat]
+	[T_WORD:CLEVER:babatjikhat]
+
+
+UGLY
+	[T_WORD:UGLY:akbabat]
+	[T_WORD:FOUL:akhalal]
+	[T_WORD:POCK:akjhabat]
+	[T_WORD:HOG:hekharim]
+	[T_WORD:NASTY:meheshab]
+
+
+UNTOWARD
+	[T_WORD:IDIOT:akjikhat]
+	[T_WORD:STUPIDITY:akjikhab]
+	[T_WORD:HALFWIT:meshjikhat]
+	[T_WORD:OAF:shalkhajikhat]
+	[T_WORD:MEAN:meheshal]
+
+
+VIOLENT
+	[T_WORD:HOUND:khavakarat]
+	[T_WORD:BLOODY:hemolab]
+	[T_WORD:BLADE:simitat]
+	[T_WORD:MURDER:khavarat]
+	[T_WORD:REAVER:khavarim]
+
+WILD
+	[T_WORD:TRICK:ababjikhat]
+	[T_WORD:NAUGHTY:ababab]
+	[T_WORD:TRICKSY:ababjikhab]
+	[T_WORD:FLIRTY:aksobkhab]
+	[T_WORD:SPICY:khebab]
+
+
+NAME
+	[T_WORD:ROAD:siikbal]
+	[T_WORD:WAR:aasalkh]
+	[T_WORD:BATTLE:alkhaera]
+	[T_WORD:SIEGE:haerakat]
+	[T_WORD:CAVERN:sietch]
+	[T_WORD:DESERT:hakab]
+	[T_WORD:KINGDOM:albkharat]
+	[T_WORD:EXPEDITION:saakhab]
+	[T_WORD:WOODS:akatbal]
+	[T_WORD:GLACIER:akhakab]
+	[T_WORD:PLAINS:tabrim]
+	[T_WORD:HILL:khabarim]
+	[T_WORD:LAKE:minsookat]
+	[T_WORD:MOUNTAIN:halkhabarim]
+	[T_WORD:SEA:sook]
+	[T_WORD:SWAMP:s'siisook]
+	[T_WORD:CREATION:halla]
+	[T_WORD:STAR:arthim]
+	[T_WORD:AETHER:alkhahera]
+	[T_WORD:ETHEREAL:b'alkhaheral]
+	[T_WORD:TUNDRA:akakatbal]
