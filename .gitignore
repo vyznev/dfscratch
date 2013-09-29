@@ -1,0 +1,26 @@
+# Ignore vanilla DF files and dirs
+# To do: unignore any parts of data/ that we may want to change
+/data/
+/raw/graphics/
+/raw/interaction examples/
+/sdl/
+/libs/
+/g_src/
+/*.exe
+/*.dll
+/*.MANIFEST
+/*.bat
+/errorlog.txt
+/gamelog.txt
+/command line.txt
+/file changes.txt
+/optipng license.txt
+/readme.txt
+/release notes.txt
+/df
+/README.linux
+
+# Ignore emacs-style backup / temp files
+*~
+.#*
+\#*#
