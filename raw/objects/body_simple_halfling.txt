@@ -201,6 +201,7 @@ body_simple_halfling
 
 [BODY:VERMIN_BODY_HLG]
 	[BP:VERMIN:body:bodies][UPPERBODY][LOWERBODY][THOUGHT][BREATHE][CATEGORY:VERMIN_BODY]
+		[DEFAULT_RELSIZE:150] STL: Added this, as it was absent before.
 
 [BODYGLOSS:ANKLEHOCK_HLG:ankle:hock:ankles:hocks]
 [BODYGLOSS:TWOLEGS_HLG:back foot:foot:back feet:feet]
