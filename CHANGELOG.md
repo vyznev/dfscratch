@@ -5,6 +5,40 @@ _The entirely player-made universe._
 Change log
 ----------
 
+### Turn 3 (LaularuKyrumo):
+
+Striking the Earth just got slightly more interesting!
+
+**New things include:**
+
+* 1 creature -- Hell Riders, eternally flaming beasts that drop Magmaline when killed and, while being rather fragile, regenerate at STUPID rates--so if you don't chop their limbs off, they'll heal nearly all damage if they get away from you.
+
+* 3 new metals -- Iridium, high tier metal that takes a lot of effort to smelt; Aeresium, magma-safe building metal; Lunanium, non-magma-safe, very dense weapons-grade metal
+
+* 5 new soils -- Brown dirt (just soil), Blue dirt (aquifer soil), Red sand (sand that appears in deserts and non-deserts), Black Ooze (oceanic soil), and Blue Ooze (oceanic aquifer soil). New soil template included.
+
+* 9 new layer stones, including one for Hell. (It's still ice.) Experience them yourselves!
+
+* 3 new non-layer stones. Magmaline, a dragonfire-safe stone that never shows up (hopefully) and drops from killing Pale Riders. Oxyline, an aquifer stone that is required (along with Magmaline) to process Iridium. Horichoko, a generic stone that literally exists to keep oxyline from showing up GODDAMN EVERYWHERE, and is ideal for making engraved mugs. (There's a joke in there somewhere.)
+
+* Halflings and Formics have been updated with two lines:
+
+        [PERMITTED_REACTION:IRIDIUM_MAKING_STAGE1_LKR]
+        [PERMITTED_REACTION:IRIDIUM_MAKING_STAGE2_LKR]
+
+Have !!fun!!, everyone!
+
+**Updates:**
+
+Turns out that I didn't stick _LKR on a bunch of material names, so fixed that. Also, StLeibowitz and Halfling teamed up and both included a copy of FINE_SAND_HLG, somehow doing the impossible and creating duplicate raw entries. Finding walls made out of FROZEN BLOOD was pretty much the reason we found this. It's fixed in this version and should be fixed soon in Leibowitz's raws, if it isn't already.
+
+* 3.2 update: blue ooze is now properly located in the oceans instead of everywhere else. Whoops!
+
+* 3.3 update: Chaosine (an otherwise unremarkable rock) now has DEEP_SPECIAL, to keep the game from defaulting to the alphabetically first file, which happens to be goddamned jaded slade. Future versions have permission to switch Chaosine back to METAMORPHIC once we have an official DEEP_SPECIAL material. Also, ice looks less ugly now.
+
+* 3.4: Added appropriate colors and tiles to all of my rocks. They no longer look identical! I think.
+
+
 ### Turn 2 (StLeibowitz):
 
 **Additions:**
