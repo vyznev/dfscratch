@@ -123,6 +123,13 @@ interaction_vampire_halfling
 	  [CDI:VERB:slash the target with your fingernails:is slashing the enemy with their sharp claws:na]
 	  [CDI:TARGET_VERB:are bleeding all over!:is bleeding profusely!]
 
+##STL: Formatted to line up neatly with above. Everything must be perfect.../crazy giggle##
+	[CE_CAN_DO_INTERACTION:START:0]
+	  [CDI:INTERACTION:STOP_THIRST_HUNGER_HLG]
+	  [CDI:ADV_NAME:Embrace undeath (no longer thirst or hunger)]
+	  [CDI:TARGET:A:SELF_ONLY]
+          [CDI:USAGE_HINT:ATTACK] ## AI never uses
+	  [CDI:TARGET_VERB:no longer feel mortal cravings:is momentarily wrapped in darkness]
 
 [INTERACTION:VAMPIRE_SLASHER_HLG]
 
@@ -162,3 +169,71 @@ interaction_vampire_halfling
  		[CDI:TARGET:C:LINE_OF_SIGHT]
 		[CDI:VERB:are surrounded by a cloud of darkness:is surrounded by a cloud of darkness:na]
 
+## Before you become a vampire, you can "opt out" of both "scratch" vampirism and anything working similarly to vanilla vampirism,
+## werecreaturism, and curses. Gives you a title for bragging rights. Available by adding the relevant variation to creature
+
+[INTERACTION:SUPERNATURAL_OPTOUT_HLG]
+
+[I_TARGET:A:CREATURE]
+	[IT_LOCATION:CONTEXT_CREATURE]
+	[IT_FORBIDDEN:SUPERNATURAL]
+	[IT_FORBIDDEN:NO_AGING]
+	[IT_CANNOT_HAVE_SYNDROME_CLASS:VAMPIRISM]
+
+		[IT_CANNOT_HAVE_SYNDROME_CLASS:WERECURSE] # legacy -- vanilla types, in case someone decides to re-enable those
+		[IT_CANNOT_HAVE_SYNDROME_CLASS:VAMPCURSE]
+		[IT_CANNOT_HAVE_SYNDROME_CLASS:DISTURBANCE_CURSE]
+
+[I_EFFECT:ADD_SYNDROME]
+	[IE_TARGET:A]
+	[IE_IMMEDIATE]
+	[SYNDROME]
+	[SYN_NAME:spiritual purity]
+	[SYN_AFFECTED_CLASS:ALL] # needed to avoid explosion - for use with vanilla creatures must be changed to "GENERAL_POISON"
+	[CE_CAN_DO_INTERACTION:START:0]
+		[CDI:INTERACTION:PURIFY_SUPERNATURAL_HLG]
+ 		[CDI:ADV_NAME:Purify target (permanently immune to vampirism and curses)]
+ 		[CDI:TARGET:A:LINE_OF_SIGHT]
+		[CDI:TARGET_VERB:feel pure:is momentarily wrapped in shimmering light]
+
+
+[INTERACTION:PURIFY_SUPERNATURAL_HLG]
+
+[I_TARGET:A:CREATURE]
+	[IT_LOCATION:CONTEXT_CREATURE]
+	[IT_FORBIDDEN:SUPERNATURAL]
+	[IT_FORBIDDEN:NO_AGING]
+	[IT_CANNOT_HAVE_SYNDROME_CLASS:VAMPIRISM]
+
+		[IT_CANNOT_HAVE_SYNDROME_CLASS:WERECURSE] # legacy -- vanilla types, in case someone decides to re-enable those
+		[IT_CANNOT_HAVE_SYNDROME_CLASS:VAMPCURSE]
+		[IT_CANNOT_HAVE_SYNDROME_CLASS:DISTURBANCE_CURSE]
+
+	[IT_MANUAL_INPUT:target]
+
+[I_EFFECT:ADD_SYNDROME]
+	[IE_TARGET:A]
+	[IE_IMMEDIATE]
+	[IE_ARENA_NAME:Purist HLG]
+	[SYNDROME]
+	[SYN_NAME:spiritually purified]
+	[SYN_AFFECTED_CLASS:ALL] #needed to avoid explosion
+	[SYN_CLASS:VAMPIRISM] # does not imply this is a form of vampirism, instead makes it mutually incompatible with vampirism
+	[SYN_CLASS:WERECURSE] # as above, legacy
+	[SYN_CLASS:VAMPCURSE]
+	[SYN_CLASS:DISTURBANCE_CURSE]
+	[CE_ADD_TAG:SUPERNATURAL:NO_AGING:START:0]
+	[CE_DISPLAY_NAME:NAME:paladin:paladins:purist:START:0]
+
+[INTERACTION:STOP_THIRST_HUNGER_HLG]
+
+[I_TARGET:A:CREATURE]
+   [IT_LOCATION:CONTEXT_CREATURE]
+
+[I_EFFECT:ADD_SYNDROME]
+   [IE_TARGET:A]
+   [IE_IMMEDIATE]
+   [SYNDROME]
+   [SYN_NAME:fully vampire]
+   [SYN_AFFECTED_CLASS:ALL]
+        [CE_REMOVE_TAG:NO_DRINK:NO_EAT:START:0]
