@@ -5,6 +5,11 @@ _The entirely player-made universe._
 Change log
 ----------
 
+### Turn 4 (sackhead)
+
+_To do: Write a change log for this turn!_
+
+
 ### Turn 3 (LaularuKyrumo):
 
 Striking the Earth just got slightly more interesting!
