@@ -5,6 +5,18 @@ _The entirely player-made universe._
 Change log
 ----------
 
+### Turn 5 (HugoLuman)
+
+-Six new creatures: 2 varieties of dirigible antelope, 4 wildly different Cephalopods
+-Mallards now limited to lakes, rivers, ponds, and wetlands. [COMMON_DOMESTIC] still lets any civ anywhere use them, though.
+-Hounds no longer exist in the wild, replaced by "Feral Hounds". They are restricted to badlands, tundras, mountains, and temperate forests, making room for other creatures to appear.
+-Halfling's eye template changed so that eye injuries don't cause instantaneous bleedout
+-Carts and palanquins added
+-Had to move the Dirigible Antelope to my creatures file so that the variant would work
+-Halflings no longer active during the summer
+-Numerous bugs fixed, including all the fixes Halfling requested, no errorlog on my end.
+
+
 ### Turn 4 (sackhead)
 
 _To do: Write a change log for this turn!_
