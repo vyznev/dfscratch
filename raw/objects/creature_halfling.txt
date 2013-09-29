@@ -38,6 +38,7 @@ creature_halfling
 
 	[APPLY_CREATURE_VARIATION:CLEANS_SELF_DAILY_HLG]
 	[APPLY_CREATURE_VARIATION:THROWS_ROCKS_HLG]
+	[APPLY_CREATURE_VARIATION:HAS_VAMPIRES_HLG]
 
 #basic body structure: humanoid core (torso, abdomen, head), back legs, humanoid arms, external ears, teeth)
 

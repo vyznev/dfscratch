@@ -2,9 +2,26 @@ Dwarf Fortress from scratch
 ===========================
 _The entirely player-made universe._
 
-
 Change log
 ----------
+
+### Turn 1 (BFEL):
+
+**New features:**
+
+* New non-playable civ (elves and their treelord masters)
+* New surprise stone (jaded slade)
+* An interaction set for vampirism by Halfling (_not_ the same as vanilla DF vampires)
+
+**Bugfixes to this release:**
+
+* Update I: Treelords no longer are made entirely of "skin" and "molten skin" and bleed sap as intended.
+* Update II: Moved to mastahcheese's enhanced raws and updated minimal world raws
+* Update III: Everybody no longer turns into a vampire upon fortress mode exit and reload. Vampires no longer initially visible.
+* Update IV: Properly named vampirism interactions for adv mode.
+* Update V: Jaded slade no longer is immediately useful. Instead if it can be obtained, it must be activated at a smelter and can then be used as before. This is so civilizations don't make their equipment out of it.
+* Update VI: Includes newest version of minimal world raws
+
 
 ### Turn 0 (Halfling):
 
