@@ -19,7 +19,7 @@ How to play?
 
 4. Start playing.
 
-Dfscratch is a work in progress, and we're <s>glad</s> _desperate_ to receive feedback from players!  If your try it out, you're more than welcome to post a journal of your game events at the [official forum thread](http://www.bay12forums.com/smf/index.php?topic=127552.0).  Any reports of bugs or any unexpected weirdness are particularly welcome.
+Dfscratch is a work in progress, and we're glad, nay, _desperate_ to receive feedback from players!  If your try it out, you're more than welcome to post a journal of your game events at the [official forum thread](http://www.bay12forums.com/smf/index.php?topic=127552.0).  Any reports of bugs or any unexpected weirdness are particularly welcome.
 
 
 How to contribute?
