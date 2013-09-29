@@ -26,6 +26,7 @@ inorganic_stone_mineral_SKH
 	[BOILING_POINT:14000]
 	[SOLID_DENSITY:1400]
 	[IS_STONE]
+	[SPECIAL]
 	[SYNDROME]
 		[SYN_NAME:Monoxide]
 		[SYN_AFFECTED_CLASS:ALL]
