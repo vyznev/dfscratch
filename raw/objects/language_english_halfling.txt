@@ -1,0 +1,267 @@
+language_english_halfling
+
+[OBJECT:LANGUAGE] ## sorted by symbol
+
+[TRANSLATION:SIMPLE_ENGLISH_HLG]
+
+RACES
+	[T_WORD:HALFLING:halfling]
+
+PLANT
+	[T_WORD:FLAX:flax]
+	[T_WORD:PUMPKIN:pumpkin]
+	[T_WORD:APPLE_TREE:appletree]
+
+
+CREATURE
+	[T_WORD:HOUND:hound]
+	[T_WORD:MALLARD:mallard]
+	[T_WORD:TIGER:tiger]
+	[T_WORD:DRAGON:dragon]
+	[T_WORD:TIT:tit]
+	[T_WORD:VOLE:vole]
+
+ARTIFICE
+	[T_WORD:HAME:hame]
+	[T_WORD:BREWED:brewed]
+	[T_WORD:HOMEMADE:homemade]
+	[T_WORD:PIE:pie]
+	[T_WORD:TEA:tea]
+
+ASSERTIVE	
+	[T_WORD:MEAN:mean]
+	[T_WORD:GALL:gall]
+	[T_WORD:MIGHTY:mighty]
+	[T_WORD:BRAVE:brave]
+
+AQUATIC
+	[T_WORD:OCEAN:ocean]
+	[T_WORD:WATERY:watery]
+	[T_WORD:BUBBLE:bubble]
+	[T_WORD:BUBBLING:bubbling]
+	[T_WORD:WAVE:wave]
+
+
+
+COLOR
+	[T_WORD:RED:red]
+	[T_WORD:BLUE:blue]
+	[T_WORD:GREEN:green]
+	[T_WORD:WHITE:white]
+	[T_WORD:BLACK:black]
+	[T_WORD:DARK:dark]
+	[T_WORD:BRIGHT:bright]
+
+
+DEATH
+	[T_WORD:DEATH:death]
+	[T_WORD:DEADLY:deadly]
+	[T_WORD:REAPER:reaper]
+	[T_WORD:LETHAL:lethal]
+	[T_WORD:SKULL:skull]
+
+
+DOMESTIC
+	[T_WORD:HOME:home]
+	[T_WORD:PANTS:pants]
+	[T_WORD:COZY:cozy]
+	[T_WORD:RUMP:rump]
+	[T_WORD:BAG:baggins]
+
+
+EARTH
+	[T_WORD:STONE:stone]
+	[T_WORD:ROCK:rock]
+	[T_WORD:HARD:hard]
+	[T_WORD:DIRT:dirt]
+	[T_WORD:EARTHY:earthy]
+
+
+EVIL
+	[T_WORD:EVIL:evil]
+	[T_WORD:WICKED:wicked]
+	[T_WORD:VILE:vile]
+	[T_WORD:TRAITOR:traitor]
+	[T_WORD:LIE:lie]
+
+FLOWERY
+	[T_WORD:BLOSSOM:blossom]
+	[T_WORD:FLOWERING:flowering]
+	[T_WORD:PETAL:petal]
+	[T_WORD:VINE:vine]
+
+GOOD
+	[T_WORD:GOOD:good]
+	[T_WORD:RIGHTEOUS:righteous]
+	[T_WORD:PURE:pure]
+	[T_WORD:HEALING:healing]
+	[T_WORD:RADIANT:radiant]
+	[T_WORD:OATH:oath]
+
+
+HOLY
+	[T_WORD:GOD:god]
+	[T_WORD:SACRED:sacred]
+	[T_WORD:FAIR:fair]
+	[T_WORD:ZEALOUS:zealous]
+
+
+LEADER
+	[T_WORD:LORD:lord]
+	[T_WORD:STEWARD:steward]
+	[T_WORD:CHIEF:chief]
+	[T_WORD:HEIR:heir]
+	[T_WORD:RIGHTFUL:rightful]
+
+
+MAGIC
+	[T_WORD:WITCH:witch]
+	[T_WORD:ENCHANTED:enchanted]
+	[T_WORD:WITCHED:witched]
+	[T_WORD:CURSED:cursed]
+	[T_WORD:FAIRY:fairy]
+
+
+MYSTERY
+	[T_WORD:SECRET:secret]
+	[T_WORD:HAZY:hazy]
+	[T_WORD:MISTY:misty]
+	[T_WORD:HIDDEN:hidden]
+	[T_WORD:DEEP:deep]
+
+
+MYTHIC
+	[T_WORD:HERO:hero]
+	[T_WORD:CHAMPION:champion]
+	[T_WORD:MASTER:master]
+	[T_WORD:HEROIC:heroic]
+	[T_WORD:MYTHIC:mythic]
+
+
+NATURE
+	[T_WORD:FIELD:field]
+
+
+NEGATIVE
+	[T_WORD:NOT:not]
+	[T_WORD:HARDLY:hardly]
+	[T_WORD:NEITHER:neither]
+	[T_WORD:FALSE:false]
+	[T_WORD:WRONG:wrong]
+
+
+OLD
+	[T_WORD:YORE:yore]	
+	[T_WORD:OLD:old]
+	[T_WORD:ELDER:elder]
+	[T_WORD:PAST:past]
+	[T_WORD:YESTER:yester]
+
+
+PEACE
+	[T_WORD:LULL:lull]
+	[T_WORD:PEACEFUL:peaceful]
+	[T_WORD:STILL:still]
+	[T_WORD:CALM:calm]
+	[T_WORD:PEACE:peace]
+
+
+PRIMITIVE
+	[T_WORD:WILD:wild]
+	[T_WORD:BEARD:beard]
+	[T_WORD:GOBBLER:gobbler]
+	[T_WORD:SAVAGE:savage]
+	[T_WORD:BARBAROUS:barbarous]
+
+
+PROTECT
+	[T_WORD:SHIELD:shield]
+	[T_WORD:GUARDED:guarded]
+	[T_WORD:GUARDIAN:guardian]
+	[T_WORD:GUARD:guard]
+	[T_WORD:WALL:wall]
+
+
+RESTRAIN
+	[T_WORD:CHAIN:chain]
+	[T_WORD:LEASHED:leashed]
+	[T_WORD:LEASH:leash]
+	[T_WORD:CUFFED:cuffed]
+	[T_WORD:BOUND:bound]
+
+
+ROMANTIC
+	[T_WORD:DARLING:darling]
+	[T_WORD:BELOVED:beloved]
+	[T_WORD:LOVE:love]
+	[T_WORD:LOVING:loving]
+	[T_WORD:PRECIOUS:precious]
+
+SUBORDINATE
+	[T_WORD:DAUGHTER:daughter]
+	[T_WORD:SON:son]
+	[T_WORD:CHILD:child]
+	[T_WORD:WHELP:whelp]
+	[T_WORD:MOOK:mook]
+
+THOUGHT
+	[T_WORD:MIND:mind]
+	[T_WORD:BRAIN:brain]
+	[T_WORD:PSYCHE:psyche]
+	[T_WORD:WRY:wry]
+	[T_WORD:CLEVER:clever]
+
+
+UGLY
+	[T_WORD:UGLY:ugly]
+	[T_WORD:FOUL:foul]
+	[T_WORD:POCK:pock]
+	[T_WORD:HOG:hog]
+	[T_WORD:NASTY:nasty]
+
+
+UNTOWARD
+	[T_WORD:IDIOT:idiot]
+	[T_WORD:STUPIDITY:stupidity]
+	[T_WORD:HALFWIT:halfwit]
+	[T_WORD:OAF:oaf]
+	[T_WORD:MEAN:mean]
+
+
+VIOLENT
+	[T_WORD:HOUND:hound]
+	[T_WORD:BLOODY:bloody]
+	[T_WORD:BLADE:blade]
+	[T_WORD:MURDER:murder]
+	[T_WORD:REAVER:reaver]
+
+WILD
+	[T_WORD:TRICK:trick]
+	[T_WORD:NAUGHTY:naughty]
+	[T_WORD:TRICKSY:tricksy]
+	[T_WORD:FLIRTY:flirty]
+	[T_WORD:SPICY:spicy]
+
+
+NAME
+	[T_WORD:ROAD:road]
+	[T_WORD:WAR:war]
+	[T_WORD:BATTLE:battle]
+	[T_WORD:SIEGE:siege]
+	[T_WORD:CAVERN:cavern]
+	[T_WORD:DESERT:desert]
+	[T_WORD:KINGDOM:kingdom]
+	[T_WORD:EXPEDITION:expedition]
+	[T_WORD:WOODS:wood]
+	[T_WORD:GLACIER:glacier]
+	[T_WORD:PLAINS:plain]
+	[T_WORD:HILL:hill]
+	[T_WORD:LAKE:lake]
+	[T_WORD:MOUNTAIN:mountain]
+	[T_WORD:SEA:sea]
+	[T_WORD:SWAMP:swamp]
+	[T_WORD:CREATION:creation]
+	[T_WORD:STAR:star]
+	[T_WORD:AETHER:aether]
+	[T_WORD:ETHEREAL:ethereal]
+	[T_WORD:TUNDRA:tundra]

@@ -1,0 +1,12 @@
+interaction_halfling
+
+[OBJECT:INTERACTION] ## really, again you can't do this differently... 
+
+[INTERACTION:CLEAN_SELF_HLG]
+	[I_SOURCE:CREATURE_ACTION]
+	[I_TARGET:A:CREATURE]
+		[IT_LOCATION:CONTEXT_CREATURE]
+	[I_EFFECT:CLEAN]
+		[IE_TARGET:A]
+		[IE_IMMEDIATE]
+		[IE_GRIME_LEVEL:2]
