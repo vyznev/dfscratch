@@ -109,8 +109,6 @@ inorganic_STL
 	[TILE:178][DISPLAY_COLOR:6:6:1]
 	[SOIL_SAND][SOIL_OCEAN]
 
-## Duplicate Halfling Fine Sand entry deleted. Comment left here because if you want duplicated raws with a chance of giving you frozen blood walls, you now know where to copy-paste that raw :) ##
-
 [INORGANIC:SANDSTORM_SAND_STL]The windblown sand of a sandstorm
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE_HLG]
 	[STATE_COLOR:ALL_SOLID:CREAM]
