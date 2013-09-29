@@ -1,0 +1,7 @@
+body_putnam
+
+[OBJECT:BODY]
+
+[BODYGLOSS:INTELLIGENT_GRASS_GLOSS_PUTNAM:trunk:hump:trunks:humps]
+
+[BODYGLOSS:GENERIC_1PART_BODY_GLOSS_PUTNAM:trunk:body:trunks:bodies]

@@ -1,0 +1,11 @@
+item_putnam
+
+[OBJECT:ITEM]
+
+[ITEM_TOOL:MILKCOMB_PUTNAM]
+	[NAME:comb:combs]
+	[VALUE:1]
+	[SIZE:150]
+	[UNIMPROVABLE]
+	[MATERIAL_SIZE:1]
+	[TILE:236]

@@ -1,6 +1,7 @@
-# Ignore vanilla DF files and dirs
+# Ignore vanilla DF files and dirs (with a few exceptions)
 /data/*
 !/data/speech/
+!/data/announcement/
 /raw/graphics/
 /raw/interaction examples/
 /sdl/

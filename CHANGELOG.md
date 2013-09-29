@@ -7,6 +7,25 @@ Change log
 
 _(Note: This change log is pieced together from notes posted alongside the original release archives. Some entries may be missing or incomplete.)_
 
+
+### Turn 8 (Putnam)
+
+- Added a few secrets: nigh invulnerability, mastery, insect attacks and knowledge of the creation and metaphysics of the universe.
+
+- Added a semimegabeast--giants--and 2 megabeasts: elements of balance, which take the form of kung-fu halflings and elements of order, which take the form of 4-spheres 8 times as tall as a halfling.
+
+- Added creeping grass and their motile parts.
+
+- Changed the fortressintro and kingarrive files to more creature-neutral ones (subject to change for later; they're still pretty vanilla).
+
+- Added myomorphs, little hamster-like creatures that live in hives and give milk in combs which can be used to make butter and cheese.
+
+- Fixed a few bugs, including:
+
+  - Apple trees not being processed correctly
+  - Mamaphints becoming mayor
+
+
 ### Turn 7bis (HugoLuman)
 
 Major bugfix, cleaning things up, mostly overhauling creatures and syndromes to the new classification system. Targetting is now more specific and (hopefully) makes more sense in existing syndromes
