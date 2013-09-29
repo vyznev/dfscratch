@@ -7,7 +7,8 @@ creature_hell_STL
 	[CASTE_NAME:shadow:shadows:shadow]
 	[CREATURE_TILE:'S'][COLOR:0:0:1]
 	[DESCRIPTION:The implacable shades of the past that the new gods thought had been erased. They lurk in the deep shadows of the frozen cavern at the root of the world, waiting for their chance to break free and relegate the new creatures of the world to shadows as well.]
-	[CREATURE_CLASS:SHADOW]
+	[CREATURE_CLASS:ALL][CREATURE_CLASS:INCORPOREAL][CREATURE_CLASS:SPIRIT]
+	[CREATURE_CLASS:SPIRIT_CORPOREAL][CREATURE_CLASS:SHADOW]
 	[INTELLIGENT]
 	[NO_EAT][NOBREATHE][NO_SLEEP][NO_DRINK][NOSTUN][NOBONES] Haha
 	[NOEMOTION][NOEXERT][NOFEAR][NOPAIN] Hahahhaha
@@ -35,7 +36,7 @@ creature_hell_STL
 		[ENTERS_BLOOD]
 		[SYNDROME]
 			[SYN_NAME:shadow taint]
-			[SYN_AFFECTED_CLASS:ALL]
+			[SYN_AFFECTED_CLASS:ORGANIC]
 			[SYN_INJECTED]
 			[CE_PAIN:SEV:1000:PROB:100:LOCALIZED:START:0:END:1500]
 			[CE_BODY_TRANSFORMATION:PROB:100:START:20]

@@ -317,6 +317,7 @@ material_template_organic_halfling
 	[ABSORPTION:100]
 	[IMPLIES_ANIMAL_KILL]
 	[ROTS]
+	[MEAT]
 	[EDIBLE_COOKED]
 
 

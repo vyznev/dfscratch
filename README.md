@@ -23,7 +23,7 @@ The DF from scratch project was created and is supervised by Halfling.  Raws hav
 * LaularuKyrumo (LKR) (turn 3)
 * sackhead (SKH) (turn 4)
 * kopout (KPT)
-* HugoLuman (HUGOL) (turn 5)
+* HugoLuman (HUGOL) (turn 5, turn 7bis bugfix release)
 * Zanzetkuken (ZTG) (turn 6)
 * Reemer30 (REM) (turn 7)
 * Gnorm (GNORM)

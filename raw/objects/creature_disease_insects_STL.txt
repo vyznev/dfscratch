@@ -9,6 +9,7 @@ I had so much fun adding in Breakbone Fever, I decided to add a few more plagues
 	[CASTE_NAME:fly:flies:flies]
 	[DESCRIPTION:A swarming pest that acts as a serious vector for all manner of delightful diseases.]
 	[CREATURE_TILE:250][COLOR:0:0:1]
+	[CREATURE_CLASS:ALL][CREATURE_CLASS:ORGANIC][CREATURE_CLASS:ARTHROPOD][CREATURE_CLASS:INVERTEBRATE]
 	[VERMIN_MICRO][VERMIN_HATEABLE][VERMIN_NOTRAP][VERMIN_GROUNDER][VERMIN_ROTTER]
 	[BIOME:ANY_LAND]
 	[BODY_SIZE:1][NO_DRINK][NO_EAT]
@@ -31,7 +32,7 @@ I had so much fun adding in Breakbone Fever, I decided to add a few more plagues
 		[ENTERS_BLOOD]
 		[SYNDROME]
 			[SYN_NAME:the shakes]
-			[SYN_AFFECTED_CLASS:ALL]
+			[SYN_AFFECTED_CLASS:ORGANIC]
 			[SYN_INJECTED]
 			[CE_DISPLAY_NAME:shaker:shakers:shaking:START:100:END:6000]
 			[CE_DIZZINESS:SEV:70:PROB:100:START:20:PEAK:3600:END:6400]
@@ -47,6 +48,7 @@ I had so much fun adding in Breakbone Fever, I decided to add a few more plagues
 	[CASTE_NAME:fly:flies:flies]
 	[DESCRIPTION:A swarming pest that acts as a serious vector for all manner of delightful diseases.]
 	[CREATURE_TILE:250][COLOR:0:0:1]
+	[CREATURE_CLASS:ALL][CREATURE_CLASS:ORGANIC][CREATURE_CLASS:ARTHROPOD][CREATURE_CLASS:INVERTEBRATE]
 	[VERMIN_MICRO][VERMIN_HATEABLE][VERMIN_NOTRAP][VERMIN_GROUNDER][VERMIN_ROTTER]
 	[BIOME:ANY_LAND]
 	[BODY_SIZE:1][NO_DRINK][NO_EAT]
@@ -69,7 +71,7 @@ I had so much fun adding in Breakbone Fever, I decided to add a few more plagues
 		[ENTERS_BLOOD]
 		[SYNDROME]
 			[SYN_NAME:red death]
-			[SYN_AFFECTED_CLASS:ALL] The Great Equalizer
+			[SYN_AFFECTED_CLASS:ORGANIC] The Great Equalizer
 			[SYN_INJECTED]
 			[CE_DISPLAY_NAME:plagued:plagued:plagued:START:100:END:14400]
 			[CE_FEVER:SEV:70:PROB:100:START:1200:PEAK:3600:END:14000] First sign - medium fever, lasts a bit. If this breaks, you're pretty good.

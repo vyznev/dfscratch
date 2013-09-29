@@ -5,16 +5,16 @@ creature_SKH
 
 
 [CREATURE:MAMAPHINT_SKH]
-	[DESCRIPTION:A large golden haired beast with large tusks and a long sensitive trunk, commonly kept for its large amounts of meat, ivory and valuable fur.]
-	[NAME:goldan mamaphint:goldan mamaphint:goldan mamaphint]
-	[CASTE_NAME:goldan mamaphint:goldan mamaphint:goldan mamaphint]
+	[DESCRIPTION:A large golden haired beast with large tusks and a long sensitive trunk, commonly kept for its large amounts of meat, ivory, and valuable fur.]
+	[NAME:golden mamaphint:golden mamaphint:golden mamaphint]
+	[CASTE_NAME:golden mamaphint:golden mamaphint:golden mamaphint]
 	[CREATURE_TILE:104][COLOR:4:0:0]
 	[PREFSTRING:Size and grace]
         [PREFSTRING:gentle nature]
         [PREFSTRING:Intelagenc]
 	[CLUSTER_NUMBER:3:12]
 
-	[CREATURE_CLASS:ALL][CREATURE_CLASS:QUADRUPED]
+	[CREATURE_CLASS:ALL][CREATURE_CLASS:ORGANIC][CREATURE_CLASS:QUADRUPED]
 	[CREATURE_CLASS:MAMMAL][CREATURE_CLASS:VERTEBRATE][CREATURE_CLASS:PACHYDERM]
 	[WAGON_PULLER]
 	[MUNDANE][DIURNAL][COMMON_DOMESTIC][TRAINABLE][PET]
@@ -82,7 +82,7 @@ creature_SKH
 	[CASTE:MALE][MALE]
 
 [CREATURE:PLESIOPHINT_SKH]
-	[DESCRIPTION:An unimagably large marine Predatore with large tusks and a long sensitive trunk used to catch fish, it patrols the oceans in search of pray.]
+	[DESCRIPTION:An unimaginably large marine predator with large tusks and a long sensitive trunk used to catch fish. It patrols the oceans in search of prey.]
 	[NAME:plesiophint:plesiophint:plesiophint]
 	[CASTE_NAME:plesiophint:plesiophint:plesiophint]
 	[CREATURE_TILE:104][COLOR:4:0:0]
@@ -91,7 +91,7 @@ creature_SKH
 
 	[CLUSTER_NUMBER:2:3]
 
-	[CREATURE_CLASS:ALL][CREATURE_CLASS:QUADRUPED]
+	[CREATURE_CLASS:ALL][CREATURE_CLASS:ORGANIC][CREATURE_CLASS:QUADRUPED]
 	[CREATURE_CLASS:MAMMAL][CREATURE_CLASS:VERTEBRATE][CREATURE_CLASS:PACHYDERM]
 	
 	[MUNDANE][TRAINABLE][PET_EXOTIC]

@@ -1,0 +1,259 @@
+language_troll_halfling
+
+[OBJECT:LANGUAGE] ## sorted by symbol
+
+[TRANSLATION:PRIMITIVE_HLG]
+
+RACES
+	[T_WORD:HALFLING:troll]
+
+PLANT
+	[T_WORD:FLAX:blues]
+	[T_WORD:PUMPKIN:reds]
+	[T_WORD:APPLE_TREE:juices]
+
+
+CREATURE
+	[T_WORD:HOUND:sniffer]
+	[T_WORD:MALLARD:duck]
+	[T_WORD:TIGER:eater]
+	[T_WORD:DRAGON:dragon]
+	[T_WORD:TIT:snack]
+	[T_WORD:VOLE:rat]
+
+ARTIFICE
+	[T_WORD:HAME:shack]
+	[T_WORD:BREWED:brewed]
+	[T_WORD:HOMEMADE:gonzo]
+	[T_WORD:PIE:pickled]
+	[T_WORD:TEA:booze]
+
+ASSERTIVE	
+	[T_WORD:MEAN:mean]
+	[T_WORD:GALL:gall]
+	[T_WORD:MIGHTY:mighty]
+	[T_WORD:BRAVE:big]
+
+AQUATIC
+	[T_WORD:OCEAN:sea]
+	[T_WORD:WATERY:slimy]
+	[T_WORD:BUBBLE:brew]
+	[T_WORD:BUBBLING:brewing]
+	[T_WORD:WAVE:crest]
+
+COLOR
+	[T_WORD:RED:bloody]
+	[T_WORD:BLUE:gloomy]
+	[T_WORD:GREEN:sickly]
+	[T_WORD:WHITE:pale]
+	[T_WORD:BLACK:black]
+	[T_WORD:DARK:dark]
+	[T_WORD:BRIGHT:blinding]
+
+
+DEATH
+	[T_WORD:DEATH:death]
+	[T_WORD:DEADLY:deadly]
+	[T_WORD:REAPER:reaper]
+	[T_WORD:LETHAL:lethal]
+	[T_WORD:SKULL:skull]
+
+DOMESTIC
+	[T_WORD:HOME:shack]
+	[T_WORD:PANTS:loincloth]
+	[T_WORD:COZY:lazy]
+	[T_WORD:RUMP:rump]
+	[T_WORD:BAG:loot]
+
+
+EARTH
+	[T_WORD:STONE:stone]
+	[T_WORD:ROCK:rock]
+	[T_WORD:HARD:hard]
+	[T_WORD:DIRT:dirty]
+	[T_WORD:EARTHY:bland]
+
+
+EVIL
+	[T_WORD:EVIL:evil]
+	[T_WORD:WICKED:wicked]
+	[T_WORD:VILE:vile]
+	[T_WORD:TRAITOR:traitor]
+	[T_WORD:LIE:lie]
+
+FLOWERY
+	[T_WORD:BLOSSOM:pansy]
+	[T_WORD:FLOWERING:pretty]
+	[T_WORD:PETAL:plucker]
+	[T_WORD:VINE:strangler]
+
+GOOD
+	[T_WORD:GOOD:huge]
+	[T_WORD:RIGHTEOUS:biggest]
+	[T_WORD:PURE:loud]
+	[T_WORD:HEALING:cutting]
+	[T_WORD:RADIANT:pungent]
+	[T_WORD:OATH:sworn]
+
+
+HOLY
+	[T_WORD:GOD:fiend]
+	[T_WORD:SACRED:sacred]
+	[T_WORD:FAIR:shaggy]
+	[T_WORD:ZEALOUS:manic]
+
+
+LEADER
+	[T_WORD:LORD:king]
+	[T_WORD:STEWARD:shaman]
+	[T_WORD:CHIEF:chief]
+	[T_WORD:HEIR:brute]
+	[T_WORD:RIGHTFUL:vengeful]
+
+
+MAGIC
+	[T_WORD:WITCH:witch]
+	[T_WORD:ENCHANTED:enchanted]
+	[T_WORD:WITCHED:witched]
+	[T_WORD:CURSED:cursed]
+	[T_WORD:FAIRY:demon]
+
+
+MYSTERY
+	[T_WORD:SECRET:secret]
+	[T_WORD:HAZY:drunk]
+	[T_WORD:MISTY:mist]
+	[T_WORD:HIDDEN:hid]
+	[T_WORD:DEEP:impaled]
+
+
+MYTHIC
+	[T_WORD:HERO:skulltaker]
+	[T_WORD:CHAMPION:headhunter]
+	[T_WORD:MASTER:master]
+	[T_WORD:HEROIC:greatest]
+	[T_WORD:MYTHIC:tale]
+
+
+NATURE
+	[T_WORD:FIELD:badland]
+
+NEGATIVE
+	[T_WORD:NOT:nar]
+	[T_WORD:HARDLY:hard]
+	[T_WORD:NEITHER:nor]
+	[T_WORD:FALSE:fake]
+	[T_WORD:WRONG:twisted]
+
+
+OLD
+	[T_WORD:YORE:bygone]
+	[T_WORD:OLD:ancient]
+	[T_WORD:ELDER:elder]
+	[T_WORD:PAST:past]
+	[T_WORD:YESTER:oldtime]
+
+PEACE
+	[T_WORD:LULL:under]
+	[T_WORD:PEACEFUL:wartime]
+	[T_WORD:STILL:bored]
+	[T_WORD:CALM:sneaky]
+	[T_WORD:PEACE:monger]
+
+
+PRIMITIVE
+	[T_WORD:WILD:wild]
+	[T_WORD:BEARD:beard]
+	[T_WORD:GOBBLER:gobbler]
+	[T_WORD:SAVAGE:savage]
+	[T_WORD:BARBAROUS:barbarous]
+
+
+PROTECT
+	[T_WORD:SHIELD:shield]
+	[T_WORD:GUARDED:guard]
+	[T_WORD:GUARDIAN:boss]
+	[T_WORD:GUARD:brute]
+	[T_WORD:WALL:spikes]
+
+RESTRAIN
+	[T_WORD:CHAIN:chain]
+	[T_WORD:LEASHED:chained]
+	[T_WORD:LEASH:whip]
+	[T_WORD:CUFFED:whipped]
+	[T_WORD:BOUND:bound]
+
+ROMANTIC
+	[T_WORD:DARLING:shiny]
+	[T_WORD:BELOVED:looted]
+	[T_WORD:LOVE:lust]
+	[T_WORD:LOVING:lusting]
+	[T_WORD:PRECIOUS:precious]
+
+SUBORDINATE
+	[T_WORD:DAUGHTER:troll]
+	[T_WORD:SON:troll]
+	[T_WORD:CHILD:whelp]
+	[T_WORD:WHELP:weakling]
+	[T_WORD:MOOK:brainless]
+
+THOUGHT
+	[T_WORD:MIND:soul]
+	[T_WORD:BRAIN:thinker]
+	[T_WORD:PSYCHE:spirit]
+	[T_WORD:WRY:wry]
+	[T_WORD:CLEVER:brainy]
+
+
+UGLY
+	[T_WORD:UGLY:ugly]
+	[T_WORD:FOUL:foul]
+	[T_WORD:POCK:pock]
+	[T_WORD:HOG:hog]
+	[T_WORD:NASTY:nasty]
+
+
+UNTOWARD
+	[T_WORD:IDIOT:moron]
+	[T_WORD:STUPIDITY:stupid]
+	[T_WORD:HALFWIT:halfwit]
+	[T_WORD:OAF:oaf]
+	[T_WORD:MEAN:mean]
+
+
+VIOLENT
+	[T_WORD:BLOODY:bloody]
+	[T_WORD:BLADE:axe]
+	[T_WORD:MURDER:murder]
+	[T_WORD:REAVER:reaver]
+
+WILD
+	[T_WORD:TRICK:trick]
+	[T_WORD:NAUGHTY:naughty]
+	[T_WORD:TRICKSY:tricksy]
+	[T_WORD:FLIRTY:flirty]
+	[T_WORD:SPICY:spicy]
+
+
+NAME
+	[T_WORD:ROAD:path]
+	[T_WORD:WAR:warpath]
+	[T_WORD:BATTLE:hunt]
+	[T_WORD:SIEGE:big hunt]
+	[T_WORD:CAVERN:cave]
+	[T_WORD:DESERT:dryland]
+	[T_WORD:KINGDOM:territory]
+	[T_WORD:EXPEDITION:horde]
+	[T_WORD:WOODS:homewood]
+	[T_WORD:GLACIER:ices]
+	[T_WORD:PLAINS:plainlands]
+	[T_WORD:HILL:hillocks]
+	[T_WORD:LAKE:ponds]
+	[T_WORD:MOUNTAIN:mountains]
+	[T_WORD:SEA:seas]
+	[T_WORD:SWAMP:sludges]
+	[T_WORD:CREATION:dreaming]
+	[T_WORD:STAR:spirit-world]
+	[T_WORD:AETHER:netherworld]
+	[T_WORD:ETHEREAL:spiritual]
+	[T_WORD:TUNDRA:homeland]

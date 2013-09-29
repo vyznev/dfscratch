@@ -8,7 +8,7 @@ creature_syntest_STL
 	[CREATURE_TILE:'S'][COLOR:6:0:0]
 	[DESCRIPTION:A roughly wolf-sized, aquatic arachnid with the disturbing ability to breath air. It has a deadly stinger and a large maw on the underside of its cephalothorax, and prefers fresh meat.]
 	[ALL_ACTIVE]
-	[CREATURE_CLASS:ALL]
+	[CREATURE_CLASS:ALL][CREATURE_CLASS:ORGANIC]
 	[CREATURE_CLASS:ARTHROPOD][CREATURE_CLASS:INVERTEBRATE]
 	[LARGE_PREDATOR][CARNIVORE]
 	[MUNDANE][CHILD:3]

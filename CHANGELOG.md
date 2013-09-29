@@ -7,6 +7,28 @@ Change log
 
 _(Note: This change log is pieced together from notes posted alongside the original release archives. Some entries may be missing or incomplete.)_
 
+### Turn 7bis (HugoLuman)
+
+Major bugfix, cleaning things up, mostly overhauling creatures and syndromes to the new classification system. Targetting is now more specific and (hopefully) makes more sense in existing syndromes
+
+**Changes to existing content include:**
+-Too many to list
+-Occulentibus now targets only Organics
+-Garish purple icon for tea plants changed
+-Complete reclassification of all creatures
+-Lizardfolk blood nerfed, no longer a contact poison
+-Panserblekk now war trainable
+-Progress triggers added to Halflings, Trolls, Adherents
+-Organ tissue is now edible
+
+**New content includes:**
+-Adherents of the Mind + Psionic interactions
+-Trolls + their taunting interactions
+-Mutant Halflings as Night Creatures
+-More Cephalopods
+-Several marine and aquatic avians
+
+
 ### Turn 7 (Reemer30)
 
 * Added two types of cacti to deserts, the spiny cactus and the Dragon's Tail cactus
