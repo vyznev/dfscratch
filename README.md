@@ -18,6 +18,7 @@ The DF from scratch project was created and is supervised by Halfling.  Raws hav
 
 * Halfling (HLG) (initial raws)
 * BFEL (turn 1)
-* mastahcheese (bugfixes and improvements)
+* mastahcheese (MC) (bugfixes and improvements)
+* StLeibowitz (STL) (turn 2)
 
 Dwarf Fortress is designed by Tarn and Zach Adams and is copyright (C) 2002–2012 by Tarn Adams.
