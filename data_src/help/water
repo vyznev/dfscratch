@@ -1,0 +1,10 @@
+water
+[TITLE]The Manual: Obtaining Water[/TITLE]
+Your dwarves need to drink.  They'll attempt to drink from nearby water sources.  You can also designate specific places for them to drink by using activity zones.  They will also drink from any wells you have built, provided the well has an open path below it to a water-filled square.
+[B]
+For technical help with these matters, follow these links:
+[LINK:data/help/menu_activity_zones]Activity Zones[/LINK]
+[LINK:data/help/menu_make_buildings]Creating Buildings[/LINK]
+[B]
+Eventually, you'll want to secure alcohol for your dwarves.  To do this, you need plants and a still.  We'll talk about how to operate
+buildings like the still in the Making Crafts section, and in the Obtaining Food section we'll go over how to get plants.

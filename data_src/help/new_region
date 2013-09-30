@@ -1,0 +1,17 @@
+new_region
+[TITLE]The Manual: Creating Your World[/TITLE]
+When you start your first game, you'll notice that it goes through a lengthy world generation process.
+You only have to do this once in a long while, so sit back and enjoy it.
+[B]
+At first, the game produces
+several fractally generated landscapes, searching for an ideal balance.  You'll notice that there are
+many rejects, sometimes well over one hundred.  This is normal -- you'll be playing several fortresses
+in this world, so it's important that terrain is evenly distributed.
+[B]
+After the basic terrain is prepared,
+the game will simulate erosion and run rivers and lakes.  It's still possible to have a few rejects at this point.
+[B]
+Once the history animation begins, you are indeed watching the world you'll be playing in.  The civilizations
+that are spreading out and fighting over the ages will be the same ones you interact with when you are running a fortress.
+[B]
+When history catches up with the present time, the animated world map becomes a piece of parchment and you are prompted to continue.
