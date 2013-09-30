@@ -1,0 +1,34 @@
+technical
+[TITLE]The Manual: Technical[/TITLE]
+See readme.txt for the license.
+See file_changes.txt for new init/interface information.
+See command_line.txt for information on world generation from command lines.
+[B][B]
+[C:7:0:1]TO BACK UP SAVES:[C:7:0:0]
+[B]
+(1) Copy the relevant region folder in "data/save" to a safe location.
+[B]
+(2) When you want to reuse it, copy that region back to "data/save".  Do *NOT* overwrite an old folder, as it might leave residual files.
+[B]
+Please *DO* back up saves.  Although the game has permanent death and you might want to play it in that spirit, the game
+is also in development, and your world might become corrupted by an error.  You can also make use of the auto save features settable in "data/init/init.txt".
+[B][B]
+[C:7:0:1]TO USE OLD SAVES WHEN UPDATING VERSIONS:[C:7:0:0]
+[B]
+(0) ***Note that version 0.31+ is not compatible with older versions.***
+[B]
+(1) Unzip the new dwarves into a *NEW* folder.
+[B]
+(2) Copy "data/save" from the old folder into the new folder, or copy over the relevant region folders you've saved to "data/save".  Keep a backup in case something is wrong with the new version.
+[B]
+(3) When you start, your world should be accessible and ready to play.
+[B]
+Unzipping the new dwarves into your old folder will work most of the time, but if files have changed, it can crash, or worse yet, destroy your saves.
+[B][B]
+[C:7:0:1]TO CHANGE DISPLAY AND SOUND OPTIONS:[C:7:0:0]
+[B]
+Go to "data/init/init.txt".  These options will take effect the next time you start the game.
+[B][B]
+[C:7:0:1]IF YOUR KEYBOARD ISN'T WORKING:[C:7:0:0]
+[B]
+If you can get to the ESC keybindings menu (from the start screen, press ESC and then 2/8 to scroll to Key Bindings), you can set your key bindings.  If your "?" key on your keyboard doesn't work for help, you can set the keybinding properly here.  It might not display as a "*".  You can set the display up properly in "data/init/interface.txt" using the display strings at the top of the file.

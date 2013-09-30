@@ -1,0 +1,34 @@
+menu_viewunit
+[TITLE]The Manual: Viewing Units[/TITLE]
+[B][B]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_VIEWUNIT] from the main view and move the cursor to a unit.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+There are several options from this screen.
+[B][B]
+[C:7:0:1]General[C:7:0:0]
+[B]
+Here you can see a creature's type, active job and skills.  Use [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN] to scroll the skill list.
+[B][B]
+[C:7:0:1]Inventory[C:7:0:0]
+[B]
+These are objects in the creature's possession.  Use [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN] to scroll.  Press [IKEY:SELECT] to view an item's description.
+[B][B]
+[C:7:0:1]Preferences[C:7:0:0]
+[B]
+This is where you assign professions and work dogs.  You can also view a dwarf's profile here.
+[B]
+[LINK:data/help/unit_profile]Unit Profiles[/LINK]
+[LINK:data/help/menu_professions]Setting Professions[/LINK]
+[B][B]
+[C:7:0:1]Wounds[C:7:0:0]
+[B]
+You can see the creature's body status here.  As the creature becomes more injured, scrolling becomes available.  Use [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN] to scroll.
+[B]
+Creatures do not have a "life rating", although they can bleed to death.  Small creatures have difficulty injuring larger creatures.
+[B]
+Parts that are broken cannot be used to stand on the ground or to hold objects.  A dwarf with such an injury should be allowed to rest or ideally should receive medical treatment.
+Severe injuries to the spine or brain cause paralysis and they do not heal.  Missing parts do not grow back.

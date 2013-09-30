@@ -1,0 +1,18 @@
+menu_squads
+[TITLE]The Manual: Command Squads[/TITLE]
+[B][B]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_SQUADS] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+You control your army by moving squads around.  These squads are constructed in the military screen.
+[B]
+[LINK:data/help/menu_military]Military Screen[/LINK]
+[B]
+There are two ways to control squads from here:  move and kill orders.
+[B]
+Move a squad if you just want them to sit someplace until opposition arrives.
+[B]
+Soldiers will not follow your orders if they are standing down, eating, drinking, sleeping or heavily injured.
