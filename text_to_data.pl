@@ -35,9 +35,12 @@ GetOptions( 'r|reverse'   => \my $reverse,
 	    'textdir=s'   => \$textdir,
     ) or die $usage;
 
+# strip trailing slashes, strip base dir names from subdirs
+# XXX: this is kind of a kluge, but allows use of command line completion and/or shell wildcards for subdirs
 s!/*$!! for $basedir, $datadir, $textdir;
-$_ = "$basedir/$_" for $datadir, $textdir;
+s!^\Q$basedir\E/!!, s!^(\Q$datadir\E|\Q$textdir\E)/!! for @ARGV;
 
+$_ = "$basedir/$_" for $datadir, $textdir;
 my $srcdir = ($reverse ? $datadir : $textdir);
 my $dstdir = ($reverse ? $textdir : $datadir);
 
@@ -50,7 +53,7 @@ my %skipdirs = ("." => 1, ".." => 1);  # don't recurse into these directories!
 my @stack = (@ARGV ? reverse @ARGV : ".");
 while (@stack) {
     my $name = pop @stack;
-    $name =~ s!(^|/)(./)+!!;
+    $name =~ s!(^|/)(\./)+!!g;
     # catch errors with eval, resume from next entry:
     eval {
 	my $srcpath = "$srcdir/$name";
@@ -70,12 +73,13 @@ while (@stack) {
 	    closedir DIR, $srcpath or die "Error opening directory $srcpath: $!\n";
 	}
 	else {
-	    # assume it's a file, check modification times
+	    # assume it's a file, check modification times:
 	    my $srctime = (stat _)[9];
 	    my $dsttime = (stat $dstpath)[9] || 0;
 
-	    if ($dsttime > $srctime and not $force) {
-		warn "$dstpath is newer than $srcpath (use --force to overwrite)\n" unless $quiet;
+	    if ($dsttime >= $srctime and not $force) {
+		# XXX: if the times are identical, silently assume the files to be up to date
+		warn "$dstpath is newer than $srcpath (use --force to overwrite)\n" unless $dsttime == $srctime;
 		return;
 	    }
    	    if ($reverse) {
@@ -83,6 +87,8 @@ while (@stack) {
 	    } else {
 		encode_datafile($srcpath, $dstpath);
 	    }
+	    # set the target file's timestamp equal to the source file's:
+	    utime $srctime, $srctime, $dstpath;
 	}
     };
     # announce any errors caught by eval, then resume from next file:
