@@ -1,6 +1,9 @@
 # Ignore vanilla DF files and dirs
-# To do: unignore any parts of data/ that we may want to change
-/data/
+/data/*
+!/data/announcement/
+!/data/dipscript/
+!/data/help/
+!/data/speech/
 /raw/graphics/
 /raw/interaction examples/
 /sdl/
