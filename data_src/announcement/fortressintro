@@ -1,13 +1,13 @@
 fortressintro
-[TITLE]An Outpost[/TITLE]
+[TITLE]A New Outpost[/TITLE]
 [P]You have arrived.  After a journey from the capital into the
 forbidding wilderness beyond, your harsh trek has finally
 ended.  Your party of seven is to make an
 outpost for the glory of all of [VAR:NATIVENAME:GLOBAL:YOURCIV].
 [P]There are almost no supplies left, but with labor
 comes sustenance.  Whether by bolt, plow or hook, provide
-for your citizens.  You are expecting a supply caravan just before
-winter entombs you, but it is Spring now.
+for your people.  You are expecting a supply caravan before
+winter entombs you, but it is spring now.
 Enough time to delve secure lodgings, ere the [VAR:NAME_PLURAL:GLOBAL:LOCAL_LARGE_PREDATOR] get hungry.
-A new chapter of [VAR:NATIVENAME:GLOBAL:YOURCIV] history begins here at this place, [VAR:NATIVENAME:GLOBAL:YOURFORT],
+A new chapter in the history of your people begins here at this place, [VAR:NATIVENAME:GLOBAL:YOURFORT],
 "[VAR:TRANSLATEDNAME:GLOBAL:YOURFORT]".  Strike the earth!
