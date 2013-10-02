@@ -1,4 +1,16 @@
 #!/usr/bin/perl
+
+# Script to encode and decode the Dwarf Fortress compressed
+# announcement / help / dipscript files.
+#
+# Released into the public domain by Ilmari Karonen (Vyznev).
+# Do whatever you want with it.
+#
+# Usage: Run once in your main DF folder with the --reverse switch to
+# decode all compressed files from data/ to data_src/.  After editing
+# the decoded text files, run without the --reverse switch to update
+# the compressed files.  See below for more options.
+
 use strict;
 use warnings;
 use Compress::Zlib qw'compress uncompress $gzerrno';
