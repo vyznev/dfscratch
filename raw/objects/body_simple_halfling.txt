@@ -217,3 +217,5 @@ body_simple_halfling
 [BODYGLOSS:CLAWTOES_HLG:toe:claw:toes:claws]
 [BODYGLOSS:NOSEBEAK_HLG:nose:upper beak:noses:upper beaks]
 [BODYGLOSS:MOUTHBEAK_HLG:mouth:lower beak:mouths:lower beaks]
+[BODYGLOSS:NOSEBILL_HLG:nose:upper bill:noses:upper bills]
+[BODYGLOSS:MOUTHBILL_HLG:mouth:lower bill:mouths:lower bills]
