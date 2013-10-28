@@ -1,5 +1,0 @@
-
-creature_kopout
-
-[OBJECT:CREATURE]
-

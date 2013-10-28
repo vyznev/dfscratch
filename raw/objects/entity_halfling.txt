@@ -94,6 +94,7 @@ entity_halfling
 	!!CULL_SYMBOL:ALL:DEATH!!!
 	!!CULL_SYMBOL:ALL:EVIL!!!
 	!!CULL_SYMBOL:ALL:VIOLENT!!! disabled for now to make fewer errors
+	[UNDEAD_CANDIDATE]
 	[OUTDOOR_WOOD]
 	[INDOOR_WOOD]
 	[USE_GOOD_PLANTS] ##yes, they'll grow everything. makes stuff easier to test too.
