@@ -8,6 +8,34 @@ Change log
 _(Note: This change log is pieced together from notes posted alongside the original release archives. Some entries may be missing or incomplete.)_
 
 
+### Turn 9 (Gnorm)
+
+__Changelog__
+
+* A new race - with its own buildings, weapons, armor, language, et cetera - called the "clockworkers"
+* Numerous edits and enhancements done the the daemonic cherubim
+* Now includes two subterranean civilizations: the gnomes and the little ones
+* 1 new plant type for the good regions
+* 9 new dishes to prepare in the kitchen
+* 1 new gem
+* Added the Lords of the Dead and their minions
+* 1 other new interaction
+* Unnecessary files removed
+* Adventure tiers corrected
+* Certain races now have [UNDEAD_CANDIDATE]
+* New wood template added
+* Removed hydra vigor and rock barrel reactions
+* Makeshift guns can now be formed out of plants
+* Adventurers now start with dirks
+* 4 new creatures for the evil regions
+* Talking bears added
+
+__Known Bugs__
+
+* Clockworkers cannot perform designations
+* New uncivilized creatures can only "push" to attack
+
+
 ### Turn 8 (Putnam)
 
 - Added a few secrets: nigh invulnerability, mastery, insect attacks and knowledge of the creation and metaphysics of the universe.

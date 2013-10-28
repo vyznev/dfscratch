@@ -26,7 +26,7 @@ The DF from scratch project was created and is supervised by Halfling.  Raws hav
 * HugoLuman (HUGOL) (turn 5, turn 7bis bugfix release)
 * Zanzetkuken (ZTG) (turn 6)
 * Reemer30 (REM) (turn 7)
-* Gnorm
 * Putnam (turn 8)
+* Gnorm (turn 9)
 
 Dwarf Fortress is designed by Tarn and Zach Adams and is copyright (C) 2002–2012 by Tarn Adams.
