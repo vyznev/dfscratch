@@ -70,11 +70,11 @@ my %skipdirs = ("." => 1, ".." => 1);  # don't recurse into these directories!
 my @stack = (@ARGV ? reverse @ARGV : ".");
 while (@stack) {
     my $name = pop @stack;
-    $name =~ s!(^|/)(\./)+!!g;
     # catch errors with eval, resume from next entry:
     eval {
 	my $srcpath = "$srcdir/$name";
 	my $dstpath = "$dstdir/$name";
+	s!(^|/)(\./)+!$1!g for $srcpath, $dstpath;  # strip useless /./ from paths
 
 	if (!-e $srcpath) {
 	    warn "$srcpath does not exist.\n";
@@ -90,7 +90,15 @@ while (@stack) {
 	    closedir DIR, $srcpath or die "Error opening directory $srcpath: $!\n";
 	}
 	else {
-	    # assume it's a file, check modification times:
+	    # assume it's a file:
+	    if ($reverse) {
+		die "$srcpath already has .txt suffix, skipping.\n" if $srcpath =~ /\.txt$/;
+		$dstpath .= ".txt";
+	    } else {
+		die "$srcpath doesn't have a .txt suffix, skipping.\n" unless $srcpath =~ /\.txt$/;
+		$dstpath =~ s/\.txt$//;
+	    }
+
 	    my $srctime = (stat _)[9];
 	    my $dsttime = (stat $dstpath)[9] || 0;
 

@@ -7,8 +7,8 @@
 *.pl text
 
 # Always treat compressed data files as binary
-/data/announcement/*	binary
-/data/dipscript/*	binary
-/data/dipscript/text/*	binary
-/data/help/*		binary
-/data/index		binary
+/data/announcement/*	binary -eol
+/data/dipscript/*	binary -eol
+/data/dipscript/text/*	binary -eol
+/data/help/*		binary -eol
+/data/index		binary -eol
