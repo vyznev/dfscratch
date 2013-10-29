@@ -3,6 +3,8 @@ creature_wild_ztg
 [OBJECT:CREATURE]
 
 [CREATURE:DRAGON_BASE_ZTG]
+	[NAME:generic dragon:generic dragons:draconic] added for arena mode, hopefully never seen in-game due to lack of biome tags --vyznev
+	[CASTE_NAME:generic dragon:generic dragons:draconic]
 	[CASTE:FEMALE]
 		[FEMALE]
 	[CASTE:MALE]
