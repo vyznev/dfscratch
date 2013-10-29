@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Auto detect text files and perform LF -> CRLF normalization
+* text=auto eol=crlf
+
+# These suffixes always denote text files
+*.txt text
+*.md text
+*.pl text
+
+# Always treat compressed data files as binary
+/data/announcement/*	binary
+/data/dipscript/*	binary
+/data/dipscript/text/*	binary
+/data/help/*		binary
+/data/index		binary
