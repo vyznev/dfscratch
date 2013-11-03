@@ -10,7 +10,7 @@ _(Note: This change log is pieced together from notes posted alongside the origi
 
 ### Turn 9 (Gnorm)
 
-__Changelog__
+__Changes__
 
 * A new race - with its own buildings, weapons, armor, language, et cetera - called the "clockworkers"
 * Numerous edits and enhancements done the the daemonic cherubim
@@ -30,10 +30,26 @@ __Changelog__
 * 4 new creatures for the evil regions
 * Talking bears added
 
+__Changes after bugfix turn__
+
+* New uncivilized creatures now have actual attacks
+* Several fixes from Github now in the official release
+* Daemonic Cherubim now have nenamed bucklers, as well as [SIEGER] and [AMBUSHER] tokens
+* Cognac grapes updated
+* Halfling mayors now have [LAW_MAKING], which should allow them to receive Treelord and Troll diplomats
+* Nosferatu now have no blood
+* More possible book titles
+* Speech file added for Cherubim
+* Wood gem interaction added for Halflings
+* Plant long guns can now be made only of tarnish stalk
+* Plant substance bug fixed
+* Formic regents fixed
+* Clockworker soldier tile bug fixed
+* Good weather fixed
+
 __Known Bugs__
 
 * Clockworkers cannot perform designations
-* New uncivilized creatures can only "push" to attack
 
 
 ### Turn 8 (Putnam)
