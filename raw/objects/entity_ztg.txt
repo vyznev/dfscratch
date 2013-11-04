@@ -195,6 +195,7 @@ entity_ztg
 	[OUTDOOR_WOOD]
 -----------------------------Entity Only Positions--------------------------------
 	[POSITION:GRAND_CHIEFTAN]
+		[NAME:grand chieftain:grand chieftains]
 		[NUMBER:1]
 		[SUCCESSION:BY_HEIR]
 		[RESPONSIBILITY:LAW_MAKING]
@@ -251,7 +252,7 @@ entity_ztg
 		[DUTY_BOUND]
 ------------------------------Site Positions----------------------------------
 	[POSITION:CHIEFTAN]
-		[NAME:chieftan:chieftans]
+		[NAME:chieftain:chieftains]
 		[SITE]
 		[NUMBER:1]
 		[RESPONSIBILITY:MEET_WORKERS]
@@ -271,7 +272,7 @@ entity_ztg
 		[REQUIRED_BEDROOM:100]
 		[REQUIRED_DINING:100]
 	[POSITION:CHIEFTAN2]
-		[NAME:chieftan:chieftans]
+		[NAME:chieftain:chieftains]
 		[SITE]
 		[NUMBER:1]
 		[RESPONSIBILITY:RECEIVE_DIPLOMATS]
