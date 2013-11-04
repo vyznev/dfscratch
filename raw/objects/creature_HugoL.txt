@@ -391,8 +391,8 @@ creature_HugoL
 
 [CREATURE:SQUID_GIANT_HUGOL] //See if you can breed them for lots of money! The ultimate challenge!
 	[DESCRIPTION:A great predator from the deep. They are rarely seen by those who dwell on land, excapt as withered corpses washed upon the beach.]
-	[NAME:Giant squid:Giant squid:Giant squid]
-	[CASTE_NAME:Giant squid:Giant squid:Giant squid]
+	[NAME:giant squid:giant squid:giant squid]
+	[CASTE_NAME:giant squid:giant squid:giant squid]
 	[GENERAL_CHILD_NAME:larval giant squid:larval giant squid]
 	[CREATURE_TILE:'S'][COLOR:4:0:1]
 	[PREFSTRING:mystery]
