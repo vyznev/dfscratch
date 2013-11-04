@@ -9,9 +9,9 @@ creature_SKH
 	[NAME:golden mamaphint:golden mamaphint:golden mamaphint]
 	[CASTE_NAME:golden mamaphint:golden mamaphint:golden mamaphint]
 	[CREATURE_TILE:104][COLOR:4:0:0]
-	[PREFSTRING:Size and grace]
+	[PREFSTRING:size and grace]
         [PREFSTRING:gentle nature]
-        [PREFSTRING:Intelagenc]
+        [PREFSTRING:intelligence]
 	[CLUSTER_NUMBER:3:12]
 
 	[CREATURE_CLASS:ALL][CREATURE_CLASS:ORGANIC][CREATURE_CLASS:QUADRUPED]
@@ -95,7 +95,7 @@ creature_SKH
 	[NAME:plesiophint:plesiophint:plesiophint]
 	[CASTE_NAME:plesiophint:plesiophint:plesiophint]
 	[CREATURE_TILE:104][COLOR:4:0:0]
-	[PREFSTRING:share scale]
+	[PREFSTRING:sheer scale]
 	[AQUATIC][UNDERSWIM][IMMOBILE_LAND][BEACH_FREQUENCY:10]
 
 	[CLUSTER_NUMBER:2:3]
