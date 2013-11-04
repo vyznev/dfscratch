@@ -3,7 +3,7 @@ creature_intelligent_ztg
 [OBJECT:CREATURE]
 
 [CREATURE:LIZARDFOLK_ZTG]
-	[DESCRIPTION:A race of humanoids whom have adapted various features of lizards.  They are the parent species of Dragonkin and have a fierce rivalry with that race.]
+	[DESCRIPTION:A race of humanoids who have adopted various features of lizards.  They are the parent species of Dragonkin and have a fierce rivalry with that race.]
 	[NAME:lizardfolk:lizardfolk:lizardfolk]
 	[CASTE_NAME:lizardfolk:lizardfolk:lizardfolk]
 	[CREATURE_TILE:'l'][COLOR:2:0:0]
@@ -107,7 +107,7 @@ creature_intelligent_ztg
 		[MALE]
 
 [CREATURE:DRAGONKIN_ZTG]
-	[DESCRIPTION:A race of humanoids whom have adapted the various features of dragons.  They are a child species of Lizardfolk and have a fierce rivalry with that race.]
+	[DESCRIPTION:A race of humanoids who have adopted various features of dragons.  They are a child species of Lizardfolk and have a fierce rivalry with that race.]
 	[NAME:dragonkin:dragonkin:dragonkin]
 	[CASTE_NAME:dragonkin:dragonkin:dragonkin]
 	[CREATURE_TILE:'d'][COLOR:6:0:0]
