@@ -30,7 +30,7 @@ creature_psi_HugoL
 		[DESCRIPTION:A being of pure thought, its presence marked only by a robe. They are people who have exchanged their bodies for immense mental powers]
 		[POP_RATIO:100]
 	[CASTE:MASTER]
-		[CASTE_NAME:Gifted adherent:Gifted adherents:Gifted]
+		[CASTE_NAME:gifted adherent:gifted adherents:gifted]
 		[DESCRIPTION:A being of pure thought, its presence marked only by a robe. They are people who have exchanged their bodies for immense mental powers. Some minds posess natural talent that makes them extremely potent.]
 		[POP_RATIO:10]
 		[FLIER]
