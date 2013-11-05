@@ -28,7 +28,7 @@ plant_halfling
 [PLANT:FLAX_HLG]
 	[NAME:flax]
 	[NAME_PLURAL:flaxes]
-	[ADJ:flaxen]
+	[ADJ:linen] changed from "flaxen" --vyznev
 	[FREQUENCY:100]
 	[USE_MATERIAL_TEMPLATE:STRUCTURE:PLANT_STRUCTURE_HLG]
 	[BASIC_MAT:LOCAL_PLANT_MAT:STRUCTURE]

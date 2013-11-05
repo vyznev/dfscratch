@@ -144,7 +144,7 @@ creature_civilized_gnorm
 [CREATURE:CLOCKWORKER]
 	[NAME:clockworker:clockworkers:clockwork]
 	[CASTE_NAME:clockworker:clockworkers:clockwork]
-	[DESCRIPTION:A member of a humanoid race, believed to have descended from either the gnomes or the halfings. Early in their history, they learned how to merge machinery with their very nature.]
+	[DESCRIPTION:A member of a humanoid race, believed to have descended from either the gnomes or the halflings. Early in their history, they learned how to merge machinery with their very nature.]
 	[CREATURE_TILE:'c'][COLOR:6:0:0]
 	[CREATURE_SOLDIER_TILE:135]
 	[INTELLIGENT]

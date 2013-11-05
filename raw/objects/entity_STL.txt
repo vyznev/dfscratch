@@ -283,7 +283,7 @@ entity_STL
 		[DO_NOT_CULL]
 		[DUTY_BOUND]
 	[POSITION:VOX_REGINA]
-		[NAME:vox regina:vox reginae]
+		[NAME:vox reginae:voces reginae] Latin: /vox/ = "voice", /reginae/ = "of the queen"  --vyznev
 		[NUMBER:1]
 		[RESPONSIBILITY:ESTABLISH_COLONY_TRADE_AGREEMENTS]
 		[RESPONSIBILITY:MAKE_INTRODUCTIONS]

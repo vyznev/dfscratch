@@ -342,7 +342,7 @@ entity_ztg
 		[REQUIRED_OFFICE:100]
 		[REQUIRED_BEDROOM:100]
 	[POSITION:SHAMAN]
-		[NAME:shaman:shamen]
+		[NAME:shaman:shamans]
 		[SITE]
 		[NUMBER:1]
 		[RESPONSIBILITY:HEALTH_MANAGEMENT]

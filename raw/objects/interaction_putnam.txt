@@ -32,7 +32,7 @@ interaction_putnam
 			[CE_CAN_DO_INTERACTION:START:0]
 				[CDI:ADV_NAME:Give something the Form of babbling.]
 				[CDI:INTERACTION:FORMLEARN_UTTERANCES_PUTNAM]
-				[CDI:TARGET_VERB:feel a strange glafarlingus:begins babbling randomnly]
+				[CDI:TARGET_VERB:feel a strange glafarlingus:begins babbling randomly]
 				[CDI:USAGE_HINT:ATTACK]
 				[CDI:TARGET:A:LINE_OF_SIGHT]
 				[CDI:TARGET_RANGE:A:20]

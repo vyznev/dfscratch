@@ -92,7 +92,7 @@ creature_other_gnorm
 	[CASTE:BLACK_SPAWN]
 		[CASTE_NAME:black spawn:black spawn:black spawn]
 		[CASTE_TILE:9][CASTE_COLOR:4:0:1]
-		[DESCRIPTION:A blob of red flesh; these creatures are formed from the dregs of the gods' creation energy. They have an insatiable taste for liqour.]
+		[DESCRIPTION:A blob of red flesh; these creatures are formed from the dregs of the gods' creation energy. They have an insatiable taste for liquor.]
 		[NOBONES]
 		[POP_RATIO:70]
 		[EXTRAVISION]

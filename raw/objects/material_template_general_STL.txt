@@ -95,7 +95,7 @@ material_template_general_STL
 	[STATE_ADJ:ALL_SOLID:frozen hemolymph]
 	[STATE_COLOR:LIQUID:BLUE]
 	[STATE_NAME:LIQUID:hemolymph]
-	[STATE_ADJ:LIQUID:hemolyph]
+	[STATE_ADJ:LIQUID:hemolymph]
 	[STATE_COLOR:GAS:BLUE]
 	[STATE_NAME:GAS:spattering hemolymph]
 	[STATE_ADJ:GAS:spattering hemolymph]

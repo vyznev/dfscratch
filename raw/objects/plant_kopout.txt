@@ -24,7 +24,7 @@ plant_kopout
    [DRINK:LOCAL_PLANT_MAT:DRINK]
    [PREFSTRING:cheerful color]
    [PREFSTRING:ample size]
-   [PREFSTRING:wounderful crunch]
+   [PREFSTRING:wonderful crunch]
    [PREFSTRING:taste, especially in pie]
    [PICKED_TILE:111][PICKED_COLOR:4:0:1]
    [SHRUB_TILE:236][SHRUB_COLOR:4:0:1]
