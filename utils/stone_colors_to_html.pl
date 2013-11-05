@@ -78,7 +78,7 @@ sub decode_cp437 ($) {
 }
 
 # read raws (parsing rules based on http://dwarffortresswiki.org/index.php/DF2012:Material_definition_token)
-my ($mat, %materials);
+my ($mat, %materials, @materials);
 while (<>) {
     while (/\[([^\[\]]*)\]/g) {
 	my $tag = $1;
@@ -86,6 +86,7 @@ while (<>) {
 	$name = uc $name;
 	if ($name eq 'INORGANIC') {
 	    $mat = $args[0];
+	    push @materials, $mat;
 	    $materials{$mat} = {  # defaults
 		TILE_COLOR  => [7,7,1],
 		BUILD_COLOR => [7,7,1],
@@ -139,7 +140,7 @@ sub escape ($) {
     return $text;
 }
 
-foreach my $mat (sort keys %materials) {
+foreach my $mat (@materials) {
     my $tile = $materials{$mat}{TILE};
     $tile = "\x{2588}" unless defined $tile;  # default = 219 = U+2588 (solid block)
 
