@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/perl -w
 
 # Script to encode and decode the Dwarf Fortress compressed
 # announcement / help / dipscript files.

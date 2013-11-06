@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/perl -w
 
 # Script to render the tile symbols and colors of stones and other
 # inorganic materials as an HTML table.
