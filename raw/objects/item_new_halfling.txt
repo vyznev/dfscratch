@@ -33,6 +33,7 @@ item_new_halfling.txt
 	[LAYER_SIZE:1]
 	[LAYER_PERMIT:1]
 	[LAYER:OVER]
+	[SHAPED]
 	[LEATHER]
 	[COVERAGE:100]
 

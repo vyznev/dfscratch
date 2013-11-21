@@ -56,7 +56,7 @@ item_gnorm
 	[ATTACK:EDGE:5:1200:stab:stabs:NO_SUB:1000]
 
 [ITEM_SHIELD:BUCKLER_GNORM]
-	[NAME:buckler:bucklers]
+	[NAME:angelic buckler:angelic bucklers]
 	[ARMORLEVEL:1]
 	[BLOCKCHANCE:10]
 	[UPSTEP:4]

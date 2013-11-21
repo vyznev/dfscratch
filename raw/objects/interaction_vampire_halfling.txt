@@ -109,7 +109,7 @@ interaction_vampire_halfling
 	  [CDI:MAX_TARGET_NUMBER:A:1]
 	  [CDI:WAIT_PERIOD:120000]
 	  [CDI:ADV_NAME:Slash a friend! You know you want to!]
-	  [CDI:VERB:slash the target with your fingernails:is lashing out with their sharp claws:na]
+	  [CDI:VERB:slash the target with your fingernails:is lashing out with their sharp claws:n/a]
 	  [CDI:TARGET_VERB:are bleeding all over!:is bleeding all over!]
 
 	[CE_CAN_DO_INTERACTION:START:0]
@@ -120,7 +120,7 @@ interaction_vampire_halfling
 	  [CDI:MAX_TARGET_NUMBER:A:1]
 	  [CDI:WAIT_PERIOD:1200]
 	  [CDI:ADV_NAME:Slash an enemy!]
-	  [CDI:VERB:slash the target with your fingernails:is slashing the enemy with their sharp claws:na]
+	  [CDI:VERB:slash the target with your fingernails:is slashing the enemy with their sharp claws:n/a]
 	  [CDI:TARGET_VERB:are bleeding all over!:is bleeding profusely!]
 
 ##STL: Formatted to line up neatly with above. Everything must be perfect.../crazy giggle##
@@ -167,7 +167,7 @@ interaction_vampire_halfling
  		[CDI:WAIT_PERIOD:1200]
  		[CDI:USAGE_HINT:ATTACK]
  		[CDI:TARGET:C:LINE_OF_SIGHT]
-		[CDI:VERB:are surrounded by a cloud of darkness:is surrounded by a cloud of darkness:na]
+		[CDI:VERB:are surrounded by a cloud of darkness:is surrounded by a cloud of darkness:n/a]
 
 ## Before you become a vampire, you can "opt out" of both "scratch" vampirism and anything working similarly to vanilla vampirism,
 ## werecreaturism, and curses. Gives you a title for bragging rights. Available by adding the relevant variation to creature

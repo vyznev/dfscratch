@@ -6,7 +6,7 @@ Didn't bother adding colors. Pick colors that you think make sense!
 
 [INORGANIC:TETRALINE_LKR]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE_HLG]
-	[TILE:4][DISPLAY_COLOR:7:0:0]
+	[TILE:4][DISPLAY_COLOR:7:7:1] made background gray instead of black --vyznev
 	[IS_STONE]
 	[STATE_NAME_ADJ:ALL_SOLID:tetraline]
 	[MELTING_POINT:13000]
@@ -15,7 +15,7 @@ Didn't bother adding colors. Pick colors that you think make sense!
 
 [INORGANIC:AZURINE_LKR]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE_HLG]
-	[TILE:96][DISPLAY_COLOR:1:0:1]
+	[TILE:96][DISPLAY_COLOR:1:7:1] made background gray instead of black --vyznev
 	[IS_STONE]
 	[STATE_NAME_ADJ:ALL_SOLID:azurine]
 	[MELTING_POINT:11400]
@@ -25,7 +25,7 @@ Didn't bother adding colors. Pick colors that you think make sense!
 
 [INORGANIC:POLYNZITE_LKR]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE_HLG]
-	[TILE:230][DISPLAY_COLOR:6:0:0]
+	[TILE:230][DISPLAY_COLOR:6:7:0] made background gray instead of black --vyznev
 	[IS_STONE]
 	[STATE_NAME_ADJ:ALL_SOLID:polynzite]
 	[MELTING_POINT:13750]
@@ -44,7 +44,7 @@ Didn't bother adding colors. Pick colors that you think make sense!
 
 [INORGANIC:KAZUROT_LKR]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE_HLG]
-	[TILE:34][DISPLAY_COLOR:2:0:0]
+	[TILE:34][DISPLAY_COLOR:2:7:0] made background gray instead of black --vyznev
 	[IS_STONE]
 	[STATE_NAME_ADJ:ALL_SOLID:kazurot]
 	[MELTING_POINT:12319]
@@ -53,7 +53,7 @@ Didn't bother adding colors. Pick colors that you think make sense!
 
 [INORGANIC:ZHORALE_LKR]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE_HLG]
-	[TILE:39][DISPLAY_COLOR:5:0:1]
+	[TILE:39][DISPLAY_COLOR:5:7:1] made background gray instead of black --vyznev
 	[IS_STONE]
 	[STATE_NAME_ADJ:ALL_SOLID:zhorale]
 	[MELTING_POINT:12345]
@@ -64,7 +64,7 @@ Didn't bother adding colors. Pick colors that you think make sense!
 
 [INORGANIC:LEYLITE_LKR]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE_HLG]
-	[TILE:124][DISPLAY_COLOR:0:0:1]
+	[TILE:124][DISPLAY_COLOR:0:7:1] made background gray instead of black --vyznev
 	[IS_STONE]
 	[STATE_NAME_ADJ:ALL_SOLID:leylite]
 	[MELTING_POINT:NONE]
@@ -76,7 +76,7 @@ Didn't bother adding colors. Pick colors that you think make sense!
 
 [INORGANIC:CHAOSINE_LKR]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE_HLG]
-	[TILE:165][DISPLAY_COLOR:0:4:0
+	[TILE:165][DISPLAY_COLOR:0:4:0][BASIC_COLOR:4:0] fixed missing bracket, added BASIC_COLOR --vyznev
 	[IS_STONE]
 	[STATE_NAME_ADJ:ALL_SOLID:chaosine]
 	[COLDDAM_POINT:6666]
@@ -89,13 +89,8 @@ Didn't bother adding colors. Pick colors that you think make sense!
 [INORGANIC:HELL_ICE_LKR]
 	[DEEP_SURFACE]
 	[USE_MATERIAL_TEMPLATE:SOIL_TEMPLATE_LKR] Used "soil" template because the only difference is absence of ITEMS_HARD, and I don't want people making crafts out of the frozen hell. Yet. We can change it later if we want.
-	[STATE_COLOR:ALL_SOLID:WHITE]
-	[STATE_NAME_ADJ:ALL_SOLID:ice]
-	[STATE_COLOR:LIQUID:CLEAR] [STATE_NAME_ADJ:LIQUID:water] [STATE_COLOR:GAS:CLEAR] [STATE_NAME_ADJ:GAS:steam] [STATE_NAME_ADJ:SOLID_POWDER:snow] [STATE_NAME_ADJ:SOLID_PASTE:slush] Failsafes in case wacky stuff happens. It SHOULDN'T, but, you never know.
-
-	[BASIC_COLOR:10:0]
-	[BUILD_COLOR:3:0:1]
-	[TILE_COLOR:3:0:1]
+	[STATE_COLOR:ALL_SOLID:AQUA] [STATE_NAME_ADJ:ALL_SOLID:ice] [STATE_COLOR:LIQUID:DARK_BLUE] [STATE_NAME_ADJ:LIQUID:water] [STATE_COLOR:GAS:CLEAR] [STATE_NAME_ADJ:GAS:steam] [STATE_NAME_ADJ:SOLID_POWDER:snow] [STATE_NAME_ADJ:SOLID_PASTE:slush] Failsafes in case wacky stuff happens. It SHOULDN'T, but, you never know.
+	[DISPLAY_COLOR:3:7:1] changed to be cyan like real ice, not green --vyznev
 	[SPEC_HEAT:4181]
 	[MELTING_POINT:NONE]
 	[BOILING_POINT:NONE]

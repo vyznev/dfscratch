@@ -74,7 +74,7 @@ item_STL
 	[ATTACK:BLUNT:10000:5000:bash:bashes:shaft:1250]
 
 [ITEM_WEAPON:ITEM_WEAPON_SCIMITAR_STL]
-	[NAME:scimitar:scimitar]
+	[NAME:scimitar:scimitars]
 	[SIZE:320]
 	[SKILL:SWORD]
 	[TWO_HANDED:39000]
@@ -97,7 +97,7 @@ item_STL
 	[ATTACK:BLUNT:20:15000:stab:stabs:spiked pommel:1250]
 
 [ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR_STL]
-	[NAME:morningstar:morningstar]
+	[NAME:morningstar:morningstars]
 	[SIZE:500]
 	[SKILL:MACE]
 	[TWO_HANDED:42000]

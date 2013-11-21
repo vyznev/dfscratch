@@ -23,12 +23,13 @@ creature_mega_putnam
 		[HABIT:USE_ANY_MELEE_WEAPON:10]
 		[HABIT:COLLECT_WEALTH:20]
 		[HABIT_NUM:2]
-		[GO_TO_START]
-		[NAME:giant:giants:giant]
-		[GENERAL_CHILD_NAME:giant child:giant children:giant child]
-		[GENERAL_BABY_NAME:giant baby:giant babies:giant baby]
-		[DESCRIPTION:An extremely large halfling-like creature, 12 times as tall and in all other ways proportional. Extremely dangerous.] I'm considering halflings the "base humanoid", so to speak.
-
+	[GO_TO_START]
+	[NAME:giant:giants:giant]
+	[GENERAL_CHILD_NAME:giant child:giant children]
+	[GENERAL_BABY_NAME:giant baby:giant babies]
+	[DESCRIPTION:An extremely large halfling-like creature, 12 times as tall and in all other ways proportional. Extremely dangerous.] I'm considering halflings the "base humanoid", so to speak.
+	
+	
 [CREATURE:BALANCE_ELEMENTAL_PUTNAM]
 	[COPY_TAGS_FROM:HALFLING_HLG]
 	[APPLY_CREATURE_VARIATION:SPECIALBEAST_VARIATION_PUTNAM]
@@ -67,11 +68,10 @@ creature_mega_putnam
 		[CDI:TARGET_RANGE:A:1]
 		[CDI:MAX_TARGET_NUMBER:A:1]
 		[CDI:WAIT_PERIOD:2000000000]
-	
 	[GO_TO_START]
 	[NAME:element of balance:elements of balance:element of balance]
 	[CASTE_NAME:element of balance:elements of balance:element of balance]
-	[DESCRIPTION:A living embodiement of balance that takes the form of a halfling. Despite humble appearances,  it is extremely dangerous in a fight.]
+	[DESCRIPTION:A living embodiment of balance that takes the form of a halfling. Despite humble appearances,  it is extremely dangerous in a fight.]
 	[POWER]
 	[SPHERE:BALANCE]
 	

@@ -15,7 +15,7 @@ item_ztg
 [ATTACK:EDGE:10:375:stab:stabs:NO_SUB:1000]
 
 [ITEM_AMMO:ARROW3_ZTG]
-[NAME:serated arrow:serated arrows]
+[NAME:serrated arrow:serrated arrows]
 [CLASS:ARROW_ZTG]
 [SIZE:250]
 [ATTACK:EDGE:20:750:stab:stabs:NO_SUB:1000]

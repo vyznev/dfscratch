@@ -120,7 +120,7 @@ creature_HugoL
 			[TL_VASCULAR:2]
 
 [CREATURE:PANSERBLEKK_HUGOL]
-	[DESCRIPTION:A large, landbound ceohalopod with a hide covered in armored scutes. They roam in vast herds through the cold lands.]
+	[DESCRIPTION:A large, landbound cephalopod with a hide covered in armored scutes. They roam in vast herds through the cold lands.]
 	[NAME:panserblekk:panserblekks:panserblekk]
 	[CASTE_NAME:panserblekk:panserblekks:panserblekk]
 	[GENERAL_CHILD_NAME:blekksprut-barn:blekksprut-barns]
@@ -195,7 +195,7 @@ creature_HugoL
 	[CASTE_NAME:river squid:river squid:river squid]
 	[GENERAL_CHILD_NAME:larval river squid:larval river squid]
 	[CREATURE_TILE:'s'][COLOR:4:0:1]
-	[PREFSTRING:orange colour]
+	[PREFSTRING:orange color]
 	[PREFSTRING:many arms]
 	[CREATURE_CLASS:ALL][CREATURE_CLASS:ORGANIC]
 	[CREATURE_CLASS:INVERTEBRATE][CREATURE_CLASS:CEPHALOPOD]
@@ -258,7 +258,7 @@ creature_HugoL
 	[DESCRIPTION:A small, skittish cephalopod protected by a thick shell. They feed on small fish and crustaceans in wetlands and estuaries.]
 	[NAME:swamp nautilus:swamp nautili:swamp nautilus]
 	[CASTE_NAME:swamp nautilus:swamp nautili:swamp nautilus]
-	[GENERAL_CHILD_NAME:swamp nautilus larva:swamp nautilus larva]
+	[GENERAL_CHILD_NAME:swamp nautilus larva:swamp nautilus larvae]
 	[CREATURE_TILE:'n'][COLOR:4:0:0]
 	[PREFSTRING:shells]
 	[PREFSTRING:backwards motion]
@@ -326,7 +326,7 @@ creature_HugoL
 	[DESCRIPTION:A large cephalopod found in swamps and estuaries. They are shy and quick to hide into their shells, though feed opportunistically]
 	[NAME:swamp nautilus:swamp nautili:swamp nautilus]
 	[CASTE_NAME:swamp nautilus:swamp nautili:swamp nautilus]
-	[GENERAL_CHILD_NAME:swamp nautilus larva:swamp nautilus larva]
+	[GENERAL_CHILD_NAME:swamp nautilus larva:swamp nautilus larvae]
 	[CREATURE_TILE:'N'][COLOR:4:0:0]
 	[PREFSTRING:great shells]
 	[PREFSTRING:backwards motion]
@@ -390,7 +390,7 @@ creature_HugoL
 			[MATERIAL_VALUE:25]
 
 [CREATURE:SQUID_GIANT_HUGOL] //See if you can breed them for lots of money! The ultimate challenge!
-	[DESCRIPTION:A great predator from the deep. They are rarely seen by those who dwell on land, excapt as withered corpses washed upon the beach.]
+	[DESCRIPTION:A great predator from the deep. They are rarely seen by those who dwell on land, except as withered corpses washed upon the beach.]
 	[NAME:Giant squid:Giant squid:Giant squid]
 	[CASTE_NAME:Giant squid:Giant squid:Giant squid]
 	[GENERAL_CHILD_NAME:larval giant squid:larval giant squid]
@@ -759,11 +759,11 @@ creature_HugoL
 		[TLCM_NOUN:beak:SINGULAR]
 
 [CREATURE:DIRIGIBLE_ANTELOPE] //Thanks to Kopout for doing most of the work.
-	[DESCRIPTION:A passive, floating herbivore. They drift peacefuly through the air, feeding on treetops, and flee quickly from danger.]
+	[DESCRIPTION:A passive, floating herbivore. They drift peacefully through the air, feeding on treetops, and flee quickly from danger.]
 	[NAME:dirigible antelope:dirigible antelopes:dirigible antelope]
 	[CASTE_NAME:dirigible antelope:dirigible antelopes:dirigible antelope]
 	[CREATURE_TILE:'D'][COLOR:6:0:1]
-	[PREFSTRING:bouyancy]
+	[PREFSTRING:buoyancy]
 	[PREFSTRING:dopey expression]
 	[PREFSTRING:stubby little legs]
 	[CLUSTER_NUMBER:3:12]
@@ -866,7 +866,9 @@ creature_HugoL
 	[POPULATION_NUMBER:100:1000]
 
 	[APPLY_CREATURE_VARIATION:CLEANS_SELF_DAILY_HLG]
-
+	[APPLY_CREATURE_VARIATION:DOG_BARK_HLG]
+	[APPLY_CREATURE_VARIATION:GROWL_HLG]
+	[APPLY_CREATURE_VARIATION:WHIMPERS_FLEEING_HLG]
 	[HAS_NERVES][GETS_WOUND_INFECTIONS][GETS_INFECTIONS_FROM_ROT][BABY:1][HOMEOTHERM:10070]
 	[GENERAL_BABY_NAME:whelp:whelps]
 	[SWIMS_INNATE][SWIM_SPEED:2000]

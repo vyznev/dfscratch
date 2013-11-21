@@ -1,4 +1,3 @@
-[NAME]
 How to Live Like [NAME] in Three Easy Steps
 Paradise Misplaced: [NAME] Abridged Edition
 Paradise Misplaced: [NAME] Collegiate Annotations
@@ -6,3 +5,9 @@ Art Thou [NAME]?
 Heil [NAME], I'm Home!
 Love [NAME]
 Mein Leben [NO_ART_NAME]
+Get Your Stinking Paws off of Me [NAME]!
+Get Your Stinking Paws off of My Raw Files [NAME]!
+How to Succeed in [NAME] Without Really Trying
+Quite Frankly my Dear, I Don't Give a [NAME]!
+There is [NAME] at the End of This Book!
+[NAME] Sucks!

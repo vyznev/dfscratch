@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/perl -w
 
 # Script to encode and decode the Dwarf Fortress compressed
 # announcement / help / dipscript files.
@@ -28,7 +28,9 @@ Options:
   --force, -f
     Overwrite target files even if they are newer than the source files.
   --quiet, -q
-    Print nothing unless an error occurs.
+    Print nothing unless something goes wrong.
+  --verbose, -v
+    Show exactly what is being en/decoded.
   --basedir=<dir>, -d <dir>
     Look for the data/text directories under <dir> instead of "$basedir".
   --datadir=<dir>
@@ -42,10 +44,13 @@ END
 GetOptions( 'r|reverse'   => \my $reverse,
 	    'f|force'     => \my $force,
 	    'q|quiet'     => \my $quiet,
+	    'v|verbose'   => \my $verbose,
 	    'd|basedir=s' => \$basedir,
 	    'datadir=s'   => \$datadir,
 	    'textdir=s'   => \$textdir,
     ) or die $usage;
+
+undef $quiet if $verbose;
 
 # strip trailing slashes, strip base dir names from subdirs
 # XXX: this is kind of a kluge, but allows use of command line completion and/or shell wildcards for subdirs
@@ -65,11 +70,11 @@ my %skipdirs = ("." => 1, ".." => 1);  # don't recurse into these directories!
 my @stack = (@ARGV ? reverse @ARGV : ".");
 while (@stack) {
     my $name = pop @stack;
-    $name =~ s!(^|/)(\./)+!!g;
     # catch errors with eval, resume from next entry:
     eval {
 	my $srcpath = "$srcdir/$name";
 	my $dstpath = "$dstdir/$name";
+	s!(^|/)(\./)+!$1!g for $srcpath, $dstpath;  # strip useless /./ from paths
 
 	if (!-e $srcpath) {
 	    warn "$srcpath does not exist.\n";
@@ -85,7 +90,15 @@ while (@stack) {
 	    closedir DIR, $srcpath or die "Error opening directory $srcpath: $!\n";
 	}
 	else {
-	    # assume it's a file, check modification times:
+	    # assume it's a file:
+	    if ($reverse) {
+		die "$srcpath already has .txt suffix, skipping.\n" if $srcpath =~ /\.txt$/;
+		$dstpath .= ".txt";
+	    } else {
+		die "$srcpath doesn't have a .txt suffix, skipping.\n" unless $srcpath =~ /\.txt$/;
+		$dstpath =~ s/\.txt$//;
+	    }
+
 	    my $srctime = (stat _)[9];
 	    my $dsttime = (stat $dstpath)[9] || 0;
 
@@ -135,7 +148,7 @@ sub decode_datafile {
     die "Uncompressing $zipfile failed: $gzerrno\n" unless defined $data;
     
     # open output file:
-    open my $txt, '>', $txtfile or die "Failed to open $txtfile: $!\n";
+    open my $txt, '>:crlf', $txtfile or die "Failed to open $txtfile: $!\n";
     
     # extract line count from data stream:
     (my $n, $data) = unpack "Va*", $data;
@@ -158,6 +171,12 @@ sub decode_datafile {
 	    if $line == 1 and $str ne $filename;
 
 	print $txt $str, "\n";
+
+	if ($verbose) {
+	    s/\\/\\\\/g, s/\r/\\r/g, s/\n/\\n/g, s/\t/\\t/g for $str;
+	    s/([^ -~])/sprintf "\\x%02X", ord $1/eg for $str;
+	    warn "  line $line: \"$str\" ($len bytes)\n";
+	}
     }
     
     # close output file:
@@ -171,7 +190,7 @@ sub encode_datafile {
     my $filename = (split "/", $zipfile)[-1];
 
     # open input text file:
-    open my $txt, '<', $txtfile or die "Failed to open $txtfile: $!\n";
+    open my $txt, '<:crlf', $txtfile or die "Failed to open $txtfile: $!\n";
     my @lines = <$txt>;
     close $txt or die "Error reading $txtfile: $!\n";
 
@@ -183,6 +202,16 @@ sub encode_datafile {
     warn "Encoding ".@lines." lines from $txtfile to $zipfile\n" unless $quiet;
     warn "Warning: first line \"$lines[0]\" does not match file name $zipfile.\n"
 	if @lines and $lines[0] ne $filename;
+
+    if ($verbose) {
+	foreach my $line (1 .. @lines) {
+	    my $str = $lines[$line-1];
+	    my $len = length $str;
+	    s/\\/\\\\/g, s/\r/\\r/g, s/\n/\\n/g, s/\t/\\t/g for $str;
+	    s/([^ -~])/sprintf "\\x%02X", ord $1/eg for $str;
+	    warn "  line $line: \"$str\" ($len bytes)\n";
+	}
+    }
 
     # kluge: obfuscate index file
     if ($zipfile =~ m!/index$!) {
