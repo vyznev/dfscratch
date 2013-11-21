@@ -1,0 +1,10 @@
+item_kopout
+
+[OBJECT:ITEM]
+
+[ITEM_TOOL:SPARS]
+[NAME:bundal of spars:bundals of spars]
+[VALUE:10]
+[TILE:240]
+[SIZE:100]
+[UNIMPROVABLE]

@@ -1,0 +1,266 @@
+language_clockworker_gnorm
+
+[OBJECT:LANGUAGE]
+
+[TRANSLATION:BOTCHED_FRENCH_GNORM]
+
+RACES
+	[T_WORD:HALFLING:hobbit]
+
+PLANT
+	[T_WORD:FLAX:lin]
+	[T_WORD:PUMPKIN:citrouille]
+	[T_WORD:APPLE_TREE:pommier]
+
+
+CREATURE
+	[T_WORD:HOUND:chien]
+	[T_WORD:MALLARD:canard]
+	[T_WORD:TIGER:tigre]
+	[T_WORD:DRAGON:dragon]
+	[T_WORD:TIT:mesange]
+	[T_WORD:VOLE:campagnol]
+
+ARTIFICE
+	[T_WORD:HAME:hame]
+	[T_WORD:BREWED:d'herbe]
+	[T_WORD:HOMEMADE:maison]
+	[T_WORD:PIE:tarte]
+	[T_WORD:TEA:the]
+
+ASSERTIVE	
+	[T_WORD:MEAN:mechant]
+	[T_WORD:GALL:fiel]
+	[T_WORD:MIGHTY:puissant]
+	[T_WORD:BRAVE:courageux]
+
+AQUATIC
+	[T_WORD:OCEAN:ocean]
+	[T_WORD:WATERY:aqueux]
+	[T_WORD:BUBBLE:bulle]
+	[T_WORD:BUBBLING:bouillonnement]
+	[T_WORD:WAVE:vague]
+
+COLOR
+	[T_WORD:RED:rouge]
+	[T_WORD:BLUE:bleu]
+	[T_WORD:GREEN:vert]
+	[T_WORD:WHITE:blanc]
+	[T_WORD:BLACK:noir]
+	[T_WORD:DARK:sombre]
+	[T_WORD:BRIGHT:clair]
+
+
+DEATH
+	[T_WORD:DEATH:deces]
+	[T_WORD:DEADLY:meurtrier]
+	[T_WORD:REAPER:moissonneur]
+	[T_WORD:LETHAL:letale]
+	[T_WORD:SKULL:crane]
+
+
+DOMESTIC
+	[T_WORD:HOME:domicile]
+	[T_WORD:PANTS:pantalon]
+	[T_WORD:COZY:douillet]
+	[T_WORD:RUMP:croupion]
+	[T_WORD:BAG:sac]
+
+
+EARTH
+	[T_WORD:STONE:pierre]
+	[T_WORD:ROCK:roche]
+	[T_WORD:HARD:dur]
+	[T_WORD:DIRT:salete]
+	[T_WORD:EARTHY:terreux]
+
+
+EVIL
+	[T_WORD:EVIL:mal]
+	[T_WORD:WICKED:mechant]
+	[T_WORD:VILE:vile]
+	[T_WORD:TRAITOR:traitre]
+	[T_WORD:LIE:mentir]
+
+
+FLOWERY
+	[T_WORD:BLOSSOM:fleur]
+	[T_WORD:FLOWERING:floraison]
+	[T_WORD:PETAL:petale]
+	[T_WORD:VINE:vigne]
+
+GOOD
+	[T_WORD:GOOD:bonne]
+	[T_WORD:RIGHTEOUS:vertueux]
+	[T_WORD:PURE:pur]
+	[T_WORD:HEALING:guerison]
+	[T_WORD:RADIANT:rayonnante]
+	[T_WORD:OATH:serment]
+
+
+HOLY
+	[T_WORD:GOD:dieu]
+	[T_WORD:SACRED:sacre]
+	[T_WORD:FAIR:juste]
+	[T_WORD:ZEALOUS:zele]
+
+
+LEADER
+	[T_WORD:LORD:seigneur]
+	[T_WORD:STEWARD:steward]
+	[T_WORD:CHIEF:contremaitre]
+	[T_WORD:HEIR:heritier]
+	[T_WORD:RIGHTFUL:legitime]
+
+
+MAGIC
+	[T_WORD:WITCH:sorciere]
+	[T_WORD:ENCHANTED:ensorceler]
+	[T_WORD:WITCHED:ensorceler]
+	[T_WORD:CURSED:maudit]
+	[T_WORD:FAIRY:pede]
+
+
+MYSTERY
+	[T_WORD:SECRET:secrete]
+	[T_WORD:HAZY:brumeux]
+	[T_WORD:MISTY:brumeux]
+	[T_WORD:HIDDEN:cache]
+	[T_WORD:DEEP:profonde]
+
+
+MYTHIC
+	[T_WORD:HERO:heros]
+	[T_WORD:CHAMPION:champion]
+	[T_WORD:MASTER:maitre]
+	[T_WORD:HEROIC:heroique]
+	[T_WORD:MYTHIC:mythique]
+
+
+NATURE
+	[T_WORD:FIELD:domaine]
+
+
+NEGATIVE
+	[T_WORD:NOT:pas]
+	[T_WORD:HARDLY:a peine]
+	[T_WORD:NEITHER:aucun]
+	[T_WORD:FALSE:faux]
+	[T_WORD:WRONG:faux]
+
+
+OLD
+	[T_WORD:YORE:autrefois]	
+	[T_WORD:OLD:vieux]
+	[T_WORD:ELDER:aine]
+	[T_WORD:PAST:passe]
+	[T_WORD:YESTER:hier]
+
+
+PEACE
+	[T_WORD:LULL:accalmie]
+	[T_WORD:PEACEFUL:paisible]
+	[T_WORD:STILL:encore]
+	[T_WORD:CALM:calmer]
+	[T_WORD:PEACE:paix]
+
+
+PRIMITIVE
+	[T_WORD:WILD:sauvage]
+	[T_WORD:BEARD:triomphe]
+	[T_WORD:GOBBLER:dindon]
+	[T_WORD:SAVAGE:sauvage]
+	[T_WORD:BARBAROUS:imberbe]
+
+
+PROTECT
+	[T_WORD:SHIELD:bouclier]
+	[T_WORD:GUARDED:surveille]
+	[T_WORD:GUARDIAN:tuteur]
+	[T_WORD:GUARD:garde]
+	[T_WORD:WALL:mur]
+
+
+RESTRAIN
+	[T_WORD:CHAIN:chaine]
+	[T_WORD:LEASHED:tenus en laisse]
+	[T_WORD:LEASH:laisse]
+	[T_WORD:CUFFED:discute]
+	[T_WORD:BOUND:lie]
+
+
+ROMANTIC
+	[T_WORD:DARLING:cherie]
+	[T_WORD:BELOVED:bien-aimee]
+	[T_WORD:LOVE:aimer]
+	[T_WORD:LOVING:affectueux]
+	[T_WORD:PRECIOUS:precieux]
+
+SUBORDINATE
+	[T_WORD:DAUGHTER:fille]
+	[T_WORD:SON:fils]
+	[T_WORD:CHILD:enfant]
+	[T_WORD:WHELP:mettre bas]
+	[T_WORD:MOOK:serviteur]
+
+THOUGHT
+	[T_WORD:MIND:l'esprit]
+	[T_WORD:BRAIN:cerveau]
+	[T_WORD:PSYCHE:psychisme]
+	[T_WORD:WRY:desabuse]
+	[T_WORD:CLEVER:astucieux]
+
+
+UGLY
+	[T_WORD:UGLY:laid]
+	[T_WORD:FOUL:faute]
+	[T_WORD:POCK:pock]
+	[T_WORD:HOG:moto]
+	[T_WORD:NASTY:horrible]
+
+
+UNTOWARD
+	[T_WORD:IDIOT:imbecile]
+	[T_WORD:STUPIDITY:stupidite]
+	[T_WORD:HALFWIT:cretin]
+	[T_WORD:OAF:lourdaud]
+	[T_WORD:MEAN:signifier]
+
+
+VIOLENT
+	[T_WORD:HOUND:chien de chasse]
+	[T_WORD:BLOODY:sanglante]
+	[T_WORD:BLADE:lame]
+	[T_WORD:MURDER:assassiner]
+	[T_WORD:REAVER:saccageur]
+
+WILD
+	[T_WORD:TRICK:astuce]
+	[T_WORD:NAUGHTY:paillard]
+	[T_WORD:TRICKSY:delicat]
+	[T_WORD:FLIRTY:dragueur]
+	[T_WORD:SPICY:epice]
+
+
+NAME
+	[T_WORD:ROAD:route]
+	[T_WORD:WAR:guerre]
+	[T_WORD:BATTLE:bataille]
+	[T_WORD:SIEGE:siege]
+	[T_WORD:CAVERN:caverne]
+	[T_WORD:DESERT:desert]
+	[T_WORD:KINGDOM:regime]
+	[T_WORD:EXPEDITION:expedition]
+	[T_WORD:WOODS:bois]
+	[T_WORD:GLACIER:glacier]
+	[T_WORD:PLAINS:plaines]
+	[T_WORD:HILL:collines]
+	[T_WORD:LAKE:lac]
+	[T_WORD:MOUNTAIN:montagne]
+	[T_WORD:SEA:mer]
+	[T_WORD:SWAMP:submerger]
+	[T_WORD:CREATION:creation]
+	[T_WORD:STAR:etoiles]
+	[T_WORD:AETHER:ether]
+	[T_WORD:ETHEREAL:ethere]
+	[T_WORD:TUNDRA:toundra]
