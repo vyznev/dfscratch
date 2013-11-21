@@ -406,9 +406,9 @@ creature_halfling
 
 [CREATURE:CART_METAL_HLG]
 	[DESCRIPTION:A large two-wheeled vehicle pulled by pack animals. This one appears to be made of solid iron.]
-	[NAME:cart:cart:cart]
+	[NAME:cart:carts:cart]
         [CASTE:CART] ## please include this to improve creature targeting, even though vanilla doesn't
-	[CASTE_NAME:cart:cart:cart]
+	[CASTE_NAME:cart:carts:cart]
 	[CREATURE_TILE:10][COLOR:0:0:1]
 	[CREATURE_CLASS:ALL][CREATURE_CLASS:INORGANIC][CREATURE_CLASS:MACHINE]
 	[EQUIPMENT_WAGON][COMMON_DOMESTIC][MUNDANE]
@@ -423,7 +423,7 @@ creature_halfling
 
 [CREATURE:PALANQUIN_HLG]
 	[DESCRIPTION:A small vehicle for transporting persons of importance and their belongings. It is made of lacquered cam versarai wood.]
-	[NAME:palanquin:palanquin:palanquin]
+	[NAME:palanquin:palanquins:palanquin]
         [CASTE:PALANQUIN] ## please include this to improve creature targeting, even though vanilla doesn't
 	[CASTE_NAME:palanquin:palanquins:palanquin]
 	[CREATURE_TILE:10][COLOR:4:0:0]

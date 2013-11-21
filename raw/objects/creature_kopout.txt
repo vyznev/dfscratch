@@ -5,7 +5,7 @@ creature_kopout
 --------------------------------------------aquatic----------------------------------------------------
 
 [CREATURE:FLAMINGO_SEAL_KPT] 
-	[DESCRIPTION:these enormus sea birds have an easy going demeanor]
+	[DESCRIPTION:These enormous sea birds have an easygoing demeanor.]
 	[NAME:seaigo:seaigos:seaigo]
 	[CASTE_NAME:seaigo:seaigos:seaigo]
 	[CREATURE_TILE:'F'][COLOR:5:0:1]
@@ -79,7 +79,7 @@ creature_kopout
 		[TLCM_NOUN:beak:SINGULAR]
 
 [CREATURE:RIVER_MANATEE_KPT] 
-	[DESCRIPTION:aquatic grazzers that live in tropical rivers]//no water plants so they don't graze :(
+	[DESCRIPTION:Aquatic grazers that live in tropical rivers.]//no water plants so they don't graze :(
 	[NAME:river manatee:river manatees:river manatee]
 	[CASTE_NAME:river manatee:river manatees:river manatee]
 	[CREATURE_TILE:'M'][COLOR:7:0:0]
@@ -140,7 +140,7 @@ creature_kopout
 	[SET_TL_GROUP:BY_CATEGORY:EYE:EYE]	
 
 [CREATURE:TRUNKO_KPT]//based on the cryptid 
-	[DESCRIPTION:these shaggy and enigmatic gentle giants use their trunk to grasp aquatic vegitation]
+	[DESCRIPTION:These shaggy and enigmatic gentle giants use their trunk to grasp aquatic vegetation.]
 	[NAME:trunkerio:trunkerios:trunkerio]
 	[CASTE_NAME:trunkerio:trunkerios:trunkerio]
 	[CREATURE_TILE:'T'][COLOR:7:0:1]
@@ -208,13 +208,13 @@ creature_kopout
 ------------------------------------------------dogs-----------------------------------------------------------------
 
 [CREATURE:STINK_DOG_KPT]
-	[DESCRIPTION:A small scavenging relitive of the hound. Although freindly and loving they exude a noxios stink when thretened.]
+	[DESCRIPTION:A small scavenging relative of the hound. Although friendly and loving, they exude a noxious stink when threatened.]
 	[NAME:stink dog:stink dogs:stink dog]
 	[CASTE_NAME:stink dog:stink dogs:stink dog]
 	[CREATURE_TILE:'s'][COLOR:4:0:0]
-	[PREFSTRING:comicle aperance]
+	[PREFSTRING:comical appearance]
         [PREFSTRING:loving nature]
-        [PREFSTRING:horific stench]
+        [PREFSTRING:horrific stench]
 	[CLUSTER_NUMBER:1:2]
 
 	[CREATURE_CLASS:ALL][CREATURE_CLASS:QUADRUPED][CREATURE_CLASS:CANINE][CREATURE_CLASS:ORGANIC]
@@ -285,7 +285,7 @@ creature_kopout
 
 
 [CREATURE:MASTIFF_KPT]//deadly 80% of the time 
-	[DESCRIPTION:A gargantuan canine bred for war]
+	[DESCRIPTION:A gargantuan canine bred for war.]
 	[NAME:mastiff:mastiffs:mastiff]
 	[CASTE_NAME:mastiff:mastiffs:mastiff]
 	[CREATURE_TILE:'M'][COLOR:4:0:0]
@@ -344,11 +344,11 @@ creature_kopout
 
 
 [CREATURE:TERRIER_KPT]
-	[DESCRIPTION:A tiny canine used for hunting and vermin catching. They alos make good pets]
+	[DESCRIPTION:A tiny canine used for hunting and vermin catching. They also make good pets.]
 	[NAME:terrier:terriers:terrier]
 	[CASTE_NAME:terrier:terriers:terrier]
 	[CREATURE_TILE:'t'][COLOR:4:0:0]
-	[PREFSTRING:usefluness]
+	[PREFSTRING:usefulness]
         [PREFSTRING:loving nature]
         [PREFSTRING:tenacity]
 	[CLUSTER_NUMBER:1:4]
@@ -403,7 +403,7 @@ creature_kopout
 	[CASTE:MALE][MALE]
 
 [CREATURE:BASKERVILL_KPT]
-	[DESCRIPTION:Descendants of feral mastiffs these nocternal predators stalk forests and swamps in search of the unwary]
+	[DESCRIPTION:Descendants of feral mastiffs, these nocturnal predators stalk forests and swamps in search of the unwary.]
 	[NAME:baskervill:baskervills:baskervill]
 	[CASTE_NAME:baskervill:baskervills:baskervill]
 	[CREATURE_TILE:'B'][COLOR:7:0:0]
@@ -470,7 +470,7 @@ creature_kopout
 -------------------------------------------pokemon------------------------------------------------------------------
 
 [CREATURE:NIDORAN_KPT]
-	[DESCRIPTION:These poisonous, sexualy dimorphic rabit things are trainable for war.]
+	[DESCRIPTION:These poisonous, sexually dimorphic rabbit things are trainable for war.]
 	[NAME:nidoran:nidorans:nidoran]
 	[CASTE_NAME:nidoran:nidorans:nidoran]
 	[CREATURE_TILE:146][COLOR:5:0:0]
@@ -557,7 +557,7 @@ creature_kopout
 
 ---------------------------------------------------monotremes----------------------------------------------- 
 [CREATURE:PLATYPUS_MOOSE_KPT]
-	[DESCRIPTION:Slow moving herbivous monotremes. They are usefull for their wool.]
+	[DESCRIPTION:Slow moving herbivorous monotremes. They are useful for their wool.]
 	[NAME:platymoose:platymoose:platymoose]
 	[CASTE_NAME:platymoose:platymoose:platymoose]
 	[CREATURE_TILE:'P'][COLOR:5:0:0]
@@ -655,7 +655,7 @@ creature_kopout
 			[SHEARABLE_TISSUE_LAYER:LENGTH:300]
 
 [CREATURE:PLATYPUS_DEER_KPT]
-	[DESCRIPTION:Fast moving herbivous monotremes. They tend to prefer open spaces.]
+	[DESCRIPTION:Fast moving herbivorous monotremes. They tend to prefer open spaces.]
 	[NAME:platydeer:platydeer:platydeer]
 	[CASTE_NAME:platydeer:platydeer:platydeer]
 	[CREATURE_TILE:'d'][COLOR:5:0:0]
@@ -723,7 +723,7 @@ creature_kopout
 	[MALE]
 
 [CREATURE:RYGIC_KPT]
-	[DESCRIPTION:Halflingoid beasts that live in craggy areas. Their crab like claws are envenomed, leting them take down prey larger than themselves]
+	[DESCRIPTION:Halflingoid beasts that live in craggy areas. Their crab like claws are envenomed, letting them take down prey larger than themselves.]
 	[NAME:rygic:rygics:rygic]
 	[CASTE_NAME:rygic:rygics:rygic]
 	[CREATURE_TILE:'r'][COLOR:5:0:0]
@@ -804,7 +804,7 @@ creature_kopout
 	[MALE]
 
 [CREATURE:MILK_SNAKE_KPT]
-	[DESCRIPTION:Legless monotremes that travle in large groups.The males produce jelly like 'milkcombs' for the youn to eat.]
+	[DESCRIPTION:Legless monotremes that travel in large groups. The males produce jelly-like 'milkcombs' for the young to eat.]
 	[NAME:mulsan:mulsans:mulsan]
 	[CASTE_NAME:mulsan:mulsans:mulsan]
 	[CREATURE_TILE:126][COLOR:1:0:1]

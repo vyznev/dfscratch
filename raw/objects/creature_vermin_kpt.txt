@@ -2,7 +2,7 @@ creature_vermin_kpt
 
 [OBJECT:CREATURE]
 [CREATURE:AIR_PLANKTON_KPT]
-	[DESCRIPTION:a cloud of airborn algea and tiny arthropods]
+	[DESCRIPTION:A cloud of airborne algae and tiny arthropods.]
 	[NAME:air plankton:air plankton:air plankton]
 	[CASTE_NAME:air plankton:air plankton:air plankton]
 	[CREATURE_TILE:176][COLOR:2:0:1]
@@ -20,7 +20,7 @@ creature_vermin_kpt
 	[BODY_DETAIL_PLAN:VERMIN_LAYERS_HLG]
 
 [CREATURE:PLANKTON_KPT]
-	[DESCRIPTION:a cloud of algea and tiny arthropods]
+	[DESCRIPTION:A cloud of algae and tiny arthropods.]
 	[NAME:plankton:plankton:plankton]
 	[CASTE_NAME:plankton:plankton:plankton]
 	[CREATURE_TILE:176][COLOR:2:0:1]
