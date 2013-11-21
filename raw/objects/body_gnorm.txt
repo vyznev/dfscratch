@@ -1,5 +1,7 @@
 body_gnorm
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:CHERUB_DAEMONIAC]

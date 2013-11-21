@@ -1,5 +1,7 @@
 building_gnorm
 
+$Id$
+
 [OBJECT:BUILDING]
 
 [BUILDING_WORKSHOP:ARMORY]

@@ -1,5 +1,7 @@
 entity_STL
 
+$Id$
+
 [OBJECT:ENTITY]
 
 [ENTITY:DESERT_STL]

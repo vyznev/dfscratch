@@ -1,5 +1,7 @@
 creature_hive_putnam
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:MYOMORPH_PUTNAM]

@@ -1,5 +1,7 @@
 creature_syntest_STL
 
+$Id$
+
 !OBJECT:CREATURE!
 
 [CREATURE:SYNTEST_STL]

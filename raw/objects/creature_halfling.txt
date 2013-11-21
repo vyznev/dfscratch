@@ -1,5 +1,7 @@
 creature_halfling
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:HALFLING_HLG]

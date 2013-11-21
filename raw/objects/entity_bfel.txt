@@ -1,5 +1,7 @@
 entity_bfel
 
+$Id$
+
 [OBJECT:ENTITY]
 
 [ENTITY:FOREST]

@@ -1,5 +1,7 @@
 creature_civilized_gnorm
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:DAEMONIC_CHERUB]

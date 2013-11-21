@@ -1,5 +1,7 @@
 item_troll_halfling
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_FOOD:FOOD_IN_JAR_HLG]

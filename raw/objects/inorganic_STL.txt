@@ -1,5 +1,7 @@
 inorganic_STL
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:CHITIN_METAL_STL]

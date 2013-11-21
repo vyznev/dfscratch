@@ -1,5 +1,7 @@
 reaction_ztg
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:LIZARDKIN_1_ZTG]

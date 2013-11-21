@@ -1,5 +1,7 @@
 body_laularu
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:HUMANOID_ELEMENTAL_LKR]

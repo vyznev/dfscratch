@@ -1,5 +1,7 @@
 c_variation_halfling
 
+$Id$
+
 [OBJECT:CREATURE_VARIATION]
 
 now dangerousier! plus punches should be more dangerous than bites at least for adult humanoids, the other way around is stupid

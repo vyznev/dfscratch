@@ -1,5 +1,7 @@
 language_symbols_halfling
 
+$Id$
+
 [OBJECT:LANGUAGE] ## sorted by symbol. To make this not too hard to understand (and make) it's mostly, but not entirely, the same categories as DF.
 
 RACES

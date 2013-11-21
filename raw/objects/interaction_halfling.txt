@@ -1,5 +1,7 @@
 interaction_halfling
 
+$Id$
+
 [OBJECT:INTERACTION] ## really, again you can't do this differently... 
 
 [INTERACTION:CLEAN_SELF_HLG]

@@ -1,5 +1,7 @@
 item_STL
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_ARMOR:ROBE_STL]

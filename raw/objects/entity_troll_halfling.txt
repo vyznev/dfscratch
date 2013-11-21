@@ -1,5 +1,7 @@
 entity_troll_halfling
 
+$Id$
+
 [OBJECT:ENTITY]
 
 [ENTITY:TROLLS_HLG]

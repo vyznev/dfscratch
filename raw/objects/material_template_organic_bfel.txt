@@ -1,5 +1,7 @@
 material_template_organic_bfel
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:ELFWOOD_TEMPLATE_BFEL]

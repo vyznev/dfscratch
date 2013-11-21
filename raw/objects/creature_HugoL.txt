@@ -1,5 +1,7 @@
 creature_HugoL
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:CUTTLER_HUGOL]

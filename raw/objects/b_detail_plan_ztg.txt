@@ -1,5 +1,7 @@
 b_detail_plan_ztg
 
+$Id$
+
 [OBJECT:BODY_DETAIL_PLAN]
 
 [BODY_DETAIL_PLAN:REPTILE_ZTG]

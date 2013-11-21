@@ -1,5 +1,7 @@
 creature_mega_putnam
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:HUMANOID_SEMIMEGABEAST_PUTNAM]

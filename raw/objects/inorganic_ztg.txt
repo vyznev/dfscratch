@@ -1,5 +1,7 @@
 inorganic_ztg
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:ETHER_ZTG]

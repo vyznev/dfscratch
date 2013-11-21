@@ -1,5 +1,7 @@
 item_kopout
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_TOOL:SPARS]

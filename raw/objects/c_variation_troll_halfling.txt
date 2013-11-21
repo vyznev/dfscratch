@@ -1,5 +1,7 @@
 c_variation_troll_halfling
 
+$Id$
+
 [OBJECT:CREATURE_VARIATION]
 
 [CREATURE_VARIATION:GORE_HORN_HLG]

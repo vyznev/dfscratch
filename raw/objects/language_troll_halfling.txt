@@ -1,5 +1,7 @@
 language_troll_halfling
 
+$Id$
+
 [OBJECT:LANGUAGE] ## sorted by symbol
 
 [TRANSLATION:PRIMITIVE_HLG]

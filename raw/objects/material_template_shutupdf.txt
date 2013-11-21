@@ -1,5 +1,7 @@
 material_template_shutupdf
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:FLAME_TEMPLATE]

@@ -1,5 +1,7 @@
 plant_trees_kopout
 
+$Id$
+
 [OBJECT:PLANT]
 ------------------------fruit trees-------------------------------
 

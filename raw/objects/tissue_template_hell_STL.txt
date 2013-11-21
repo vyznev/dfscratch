@@ -1,5 +1,7 @@
 tissue_template_hell_STL
 
+$Id$
+
 [OBJECT:TISSUE_TEMPLATE]
 
 [TISSUE_TEMPLATE:SHADOW_TISSUE_TEMPLATE_STL] Shadow - quick to reform (heal), performs all duties.

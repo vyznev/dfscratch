@@ -1,5 +1,7 @@
 tissue_template_gnorm
 
+$Id$
+
 [OBJECT:TISSUE_TEMPLATE]
 
 [TISSUE_TEMPLATE:SKIN_TEMPLATE_GNORM]

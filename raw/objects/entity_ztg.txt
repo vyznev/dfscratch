@@ -1,5 +1,7 @@
 entity_ztg
 
+$Id$
+
 [OBJECT:ENTITY]
 
 [ENTITY:LIZARDFOLK_ZTG]

@@ -1,5 +1,7 @@
 interaction_vocalization_hlg
 
+$Id$
+
 [OBJECT:INTERACTION]
 
 [INTERACTION:PRE-VOCALIZATION_HLG]

@@ -1,5 +1,7 @@
 body_putnam
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODYGLOSS:INTELLIGENT_GRASS_GLOSS_PUTNAM:trunk:hump:trunks:humps]

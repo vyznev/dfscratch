@@ -1,5 +1,7 @@
 creature_aseaheru
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:LITTLE ONE]

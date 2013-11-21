@@ -1,5 +1,7 @@
 c_variation_insects_STL
 
+$Id$
+
 [OBJECT:CREATURE_VARIATION]
 
 The standard sting-bite attacks for bugs

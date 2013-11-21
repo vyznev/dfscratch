@@ -1,5 +1,7 @@
 plant_halfling
 
+$Id$
+
 [OBJECT:PLANT]
 
 [PLANT:MOSS_HLG]

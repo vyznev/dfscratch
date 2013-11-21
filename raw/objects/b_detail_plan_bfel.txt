@@ -1,5 +1,7 @@
 b_detail_plan_bfel
 
+$Id$
+
 [OBJECT:BODY_DETAIL_PLAN]
 
 [BODY_DETAIL_PLAN:PLANT_MATERIALS_BFEL]

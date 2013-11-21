@@ -1,5 +1,7 @@
 material_template_general_STL
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:LIGHT_CHITIN_TEMPLATE_STL]I took normal chitin, added halved values from copper in several places, and dubbed it this. And then I halved them again.

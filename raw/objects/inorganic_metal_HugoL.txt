@@ -1,5 +1,7 @@
 inorganic_metal_HugoL
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:STEEL_HUGOL]

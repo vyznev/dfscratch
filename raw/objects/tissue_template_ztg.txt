@@ -1,5 +1,7 @@
 tissue_template_ztg
 
+$Id$
+
 [OBJECT:TISSUE_TEMPLATE]
 
 [TISSUE_TEMPLATE:SCALES_ZTG]

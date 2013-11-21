@@ -1,5 +1,7 @@
 language_symbols_halfling
 
+$Id$
+
 [OBJECT:LANGUAGE]
 
 [SYMBOL:RACES]

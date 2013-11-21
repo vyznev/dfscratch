@@ -1,5 +1,7 @@
 material_template_REM
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:BENIGN_DRINK_REM] I copied masta's alch template, and removed syndromes.

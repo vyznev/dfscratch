@@ -1,5 +1,7 @@
 interaction_putnam
 
+$Id$
+
 [OBJECT:INTERACTION]
 
 [INTERACTION:INIT_FORMLEARN_PUTNAM]

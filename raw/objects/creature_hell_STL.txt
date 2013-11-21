@@ -1,5 +1,7 @@
 creature_hell_STL
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:SHADOW_STL]

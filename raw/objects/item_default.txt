@@ -1,5 +1,7 @@
 item_default
 
+$Id$
+
 [OBJECT:ITEM] ## this one contains vanilla DF items needed to run fortress mode's hardcoded reactions. 
 Didn't map all of those for now as that seems like a lot of effort for very little gain. One item from every category is included.
 This therefore has some "fallback" items you can use too.

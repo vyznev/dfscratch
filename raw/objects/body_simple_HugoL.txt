@@ -1,5 +1,7 @@
 body_simple_HugoL
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:SIMPLE_TORSO_HUGOL] ## edited from Halfling's. This way you can use his handy torso raw but with custom heads.

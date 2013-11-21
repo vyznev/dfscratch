@@ -1,5 +1,7 @@
 material_template_leather_types_halfling.txt
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 # Usage:

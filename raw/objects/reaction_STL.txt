@@ -1,5 +1,7 @@
 reaction_STL
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:PREPARE_CHITIN_STL]

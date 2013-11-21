@@ -1,5 +1,7 @@
 building_kopout
 
+$Id$
+
 [OBJECT:BUILDING]
 
 [BUILDING_WORKSHOP:LUMBERYARD_KPT]

@@ -1,5 +1,7 @@
 reaction_halfling
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:TAN_A_HIDE_HLG]

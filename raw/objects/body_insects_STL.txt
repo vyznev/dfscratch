@@ -1,5 +1,7 @@
 body_insects_STL
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:BASIC_INSECT_STL]

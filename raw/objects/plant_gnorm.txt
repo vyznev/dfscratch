@@ -1,5 +1,7 @@
 plant_gnorm
 
+$Id$
+
 [OBJECT:PLANT]
 
 [PLANT:COGNAC_GRAPES]

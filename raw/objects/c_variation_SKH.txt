@@ -1,5 +1,7 @@
 c_variation_SKH
 
+$Id$
+
 [OBJECT:CREATURE_VARIATION]
 
 

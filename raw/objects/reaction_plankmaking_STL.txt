@@ -1,5 +1,7 @@
 reaction_STL
 
+$Id$
+
 [OBJECT:REACTION]
 
 

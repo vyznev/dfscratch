@@ -1,5 +1,7 @@
 item_ztg
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_AMMO:ARROW_ZTG]

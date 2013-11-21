@@ -1,5 +1,7 @@
 c_variation_kopout
 
+$Id$
+
 [OBJECT:CREATURE_VARIATION]
 
 

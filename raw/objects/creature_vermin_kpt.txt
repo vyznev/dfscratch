@@ -1,5 +1,7 @@
 creature_vermin_kpt
 
+$Id$
+
 [OBJECT:CREATURE]
 [CREATURE:AIR_PLANKTON_KPT]
 	[DESCRIPTION:A cloud of airborne algae and tiny arthropods.]

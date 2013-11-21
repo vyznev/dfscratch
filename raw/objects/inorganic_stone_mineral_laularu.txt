@@ -1,5 +1,7 @@
 inorganic_stone_mineral_laularu
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:IRIDIUM_NATIVE_LKR]

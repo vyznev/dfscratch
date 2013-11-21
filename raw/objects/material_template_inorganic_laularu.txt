@@ -1,5 +1,7 @@
 material_template_inorganic_laularu
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:SOIL_TEMPLATE_LKR]

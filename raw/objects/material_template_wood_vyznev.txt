@@ -1,5 +1,7 @@
 material_template_wood_vyznev
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 Wood template, based on Halfling's plant structure template, with tags

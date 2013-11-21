@@ -1,5 +1,7 @@
 entity_halfling
 
+$Id$
+
 [OBJECT:ENTITY]
 
 [ENTITY:SMALL_HLG]

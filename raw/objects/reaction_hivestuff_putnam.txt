@@ -1,5 +1,7 @@
 reaction_hivestuff_putnam
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:CHURN_BUTTER_PUTNAM]

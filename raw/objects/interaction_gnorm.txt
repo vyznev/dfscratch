@@ -1,5 +1,7 @@
 interactinteraction_gnorm
 
+$Id$
+
 [OBJECT:INTERACTION]
 
 [INTERACTION:DEATHLORD_GNORM]

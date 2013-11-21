@@ -1,5 +1,7 @@
 material_template_organic_halfling
 
+$Id$
+
 ## modeled after vanilla, really obviously, but on the other hand very different values. quite possibly not better, but who knows? at least leather armor should be way better. ##
 
 [OBJECT:MATERIAL_TEMPLATE]

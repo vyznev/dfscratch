@@ -1,5 +1,7 @@
 creature_alchemy_STL
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:OCULENTIBUS_STL]

@@ -1,5 +1,7 @@
 inorganic_halfling
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:METEORIC_IRON_HLG]

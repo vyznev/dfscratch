@@ -1,5 +1,7 @@
 creature_underground_laularu
 
+$Id$
+
 [OBJECT:CREATURE]
 [CREATURE:PALE_RIDER_LKR]
 	[DESCRIPTION:A hellish beast composed of molten stone. The source of their power and life force is an incredibly hot stone at their core. They were once fearsome reapers who have since fallen out of favor with the gods and are cursed to wander the underworld forever.]

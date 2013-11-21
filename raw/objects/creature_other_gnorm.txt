@@ -1,5 +1,7 @@
 creature_other_gnorm
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:BEAR]

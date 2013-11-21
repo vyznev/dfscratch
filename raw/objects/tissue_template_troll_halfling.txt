@@ -1,5 +1,7 @@
 tissue_template_troll_halfling
 
+$Id$
+
 [OBJECT:TISSUE_TEMPLATE]
 
 [TISSUE_TEMPLATE:REGENERATING_MUSCLE_TEMPLATE_HLG]

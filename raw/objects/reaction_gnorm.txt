@@ -1,5 +1,7 @@
 reaction_gnorm
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:FORGE_CLOCKWORK_ARMOR_GNORM]

@@ -1,5 +1,7 @@
 material_template_organic_gnorm
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:SKIN_TEMPLATE_GNORM]

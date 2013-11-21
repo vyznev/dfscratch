@@ -1,5 +1,7 @@
 item_littleones_aseaheru
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_WEAPON:SLING]

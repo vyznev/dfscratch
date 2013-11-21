@@ -1,5 +1,7 @@
 inorganic_KPT
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 

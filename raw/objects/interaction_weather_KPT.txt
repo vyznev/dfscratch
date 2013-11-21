@@ -1,5 +1,7 @@
 interaction_weather_KPT
 
+$Id$
+
 [OBJECT:INTERACTION]
 
 [INTERACTION:ITS_RAINING_SUNSHINE_KPT]

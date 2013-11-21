@@ -1,5 +1,7 @@
 creature_vermin_HugoL
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:NAUTILUS_COMMON_HUGOL]\\ Not fishable after all, too similar to already present Ammolites.

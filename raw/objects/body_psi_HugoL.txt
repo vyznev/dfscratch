@@ -1,5 +1,7 @@
 body_psi_HugoL
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:INCORPOREAL_HUMANOID_HUGOL] //scrapped, but could be useful later.

@@ -1,5 +1,7 @@
 inorganic_DOOM_laularu
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:MILD_RADIOACTIVE_DUST_LKR]

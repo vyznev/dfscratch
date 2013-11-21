@@ -1,5 +1,7 @@
 inorganic_gnorm
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:OBSIDIAN_GNORM][LAVA]

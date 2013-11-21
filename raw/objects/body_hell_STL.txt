@@ -1,5 +1,7 @@
 body_hell_STL
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:HUMANOID_OUTLINE_STL]

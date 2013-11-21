@@ -1,5 +1,7 @@
 item_weapon_halfling
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_FOOD:ITEM_FOOD_PIE]

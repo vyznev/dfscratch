@@ -1,5 +1,7 @@
 item_gnorm
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_PANTS:SKIRT_GNORM]

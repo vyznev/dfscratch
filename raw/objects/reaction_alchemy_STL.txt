@@ -1,5 +1,7 @@
 reaction_alchemy_STL
 
+$Id$
+
 [OBJECT:REACTION]
 
 ## Incense-ivizing ##

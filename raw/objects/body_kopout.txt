@@ -1,6 +1,8 @@
 
 body_kpt
 
+$Id$
+
 [OBJECT:BODY]
  
 [BODY:GAS_BAG_KPT]

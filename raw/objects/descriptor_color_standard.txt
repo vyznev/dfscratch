@@ -1,5 +1,7 @@
 descriptor_color_standard
 
+$Id$
+
 [OBJECT:DESCRIPTOR_COLOR] these were just nabbed from vanilla DF which took them from wikipedia, because doing it again seemed like a fool's errand
 
 [COLOR:AMBER]

@@ -1,5 +1,7 @@
 creature_SKH
 
+$Id$
+
 [OBJECT:CREATURE]
 
 

@@ -1,5 +1,7 @@
 material_template_alchemy_STL
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:VIGOR_DRINK_TEMPLATE_STL_MC] MC's plant alcohol template minus the drunkenness syndrome

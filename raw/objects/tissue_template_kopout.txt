@@ -1,6 +1,8 @@
 
 tissue_template_kopout
 
+$Id$
+
 [OBJECT:TISSUE_TEMPLATE]
 
 [TISSUE_TEMPLATE:LIFT_GAS_TEMPLATE_KPT]

@@ -1,5 +1,7 @@
 creature_water_insects_STL
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:SEA_SCORPION_STL]

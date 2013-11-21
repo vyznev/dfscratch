@@ -1,5 +1,7 @@
 plant_kopout
 
+$Id$
+
 [OBJECT:PLANT]
 
 [PLANT:NYLON_KPT]

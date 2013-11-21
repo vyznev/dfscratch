@@ -1,5 +1,7 @@
 tissue_template_insects_STL
 
+$Id$
+
 [OBJECT:TISSUE_TEMPLATE]
 
 [TISSUE_TEMPLATE:LIGHT_CHITIN_TISSUE_TEMPLATE_STL] Basically, your standard exoskeleton, heals a bit quicker.

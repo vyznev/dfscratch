@@ -1,6 +1,8 @@
 
 b_detail_plan_kopout
 
+$Id$
+
 [OBJECT:BODY_DETAIL_PLAN]
 
 [BODY_DETAIL_PLAN:BLIMP_MATERIALS_KPT]

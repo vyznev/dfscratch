@@ -1,5 +1,7 @@
 plant_putnam
 
+$Id$
+
 [OBJECT:PLANT]
 
 [PLANT:INTELLIGENT_GRASS_PUTNAM]

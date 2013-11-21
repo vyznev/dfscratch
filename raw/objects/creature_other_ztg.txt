@@ -1,5 +1,7 @@
 creature_wilds_ztg
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:SPIRIT_ZTG]

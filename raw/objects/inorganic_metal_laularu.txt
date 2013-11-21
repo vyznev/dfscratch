@@ -1,5 +1,7 @@
 inorganic_metal_laularu
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:AERESIUM_LKR]

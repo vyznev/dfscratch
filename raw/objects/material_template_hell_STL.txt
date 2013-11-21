@@ -1,5 +1,7 @@
 material_template_hell_STL
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:SHADOW_TEMPLATE_STL] The cursed shadow that the shades of hell are made of

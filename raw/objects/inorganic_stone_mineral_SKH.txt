@@ -1,5 +1,7 @@
 inorganic_stone_mineral_SKH
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:COAL_SKH]

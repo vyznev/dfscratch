@@ -1,5 +1,7 @@
 item_armor_HugoL
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_ARMOR:ITEM_ROBE_HUGOL]

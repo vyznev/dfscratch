@@ -1,5 +1,7 @@
 inorganic_vampire_halfling
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:DARK_BLOOD_HLG]

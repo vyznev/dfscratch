@@ -1,5 +1,7 @@
 material_template_inorganic_halfling
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:METAL_TEMPLATE_HLG] the default metal is meteoric iron, a nerfed form of DF iron

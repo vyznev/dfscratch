@@ -1,5 +1,7 @@
 descriptor_color_glow_halfling
 
+$Id$
+
 [OBJECT:DESCRIPTOR_COLOR] 
 
 [COLOR:GLOWING_YELLOW]

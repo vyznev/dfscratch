@@ -1,5 +1,7 @@
 interaction_insect_STL
 
+$Id$
+
 [OBJECT:INTERACTION] Aasiaats are masters of burrowing into the snow of their habitat to cover their tracks.
 
 [INTERACTION:SNOWBLIND_SPIDER_STL]

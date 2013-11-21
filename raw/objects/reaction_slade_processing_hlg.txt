@@ -1,5 +1,7 @@
 reaction_slade_processing_hlg
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:ACTIVATE_SLADE_HLG]

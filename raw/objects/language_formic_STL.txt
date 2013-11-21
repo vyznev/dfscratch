@@ -1,5 +1,7 @@
 language_formic_STL
 
+$Id$
+
 [OBJECT:LANGUAGE] ## sorted by symbol
 
 [TRANSLATION:FORMIC_STL]

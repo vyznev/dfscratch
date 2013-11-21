@@ -1,5 +1,7 @@
 item_putnam
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_TOOL:MILKCOMB_PUTNAM]

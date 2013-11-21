@@ -1,5 +1,7 @@
 reaction_laularu
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:IRIDIUM_MAKING_STAGE1_LKR]

@@ -1,5 +1,7 @@
 plant_mastahcheese
 
+$Id$
+
 [OBJECT:PLANT]
 
 [PLANT:TARNISH_STALK_MC]

@@ -1,5 +1,7 @@
 building_alchemy_STL
 
+$Id$
+
 [OBJECT:BUILDING]
 
 [BUILDING_WORKSHOP:BRAZIER_STL] Burning incense reactions

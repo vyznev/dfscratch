@@ -1,5 +1,7 @@
 interaction_troll_halfling
 
+$Id$
+
 [OBJECT:INTERACTION]
 
 [INTERACTION:TROLL_BANTER_HLG]

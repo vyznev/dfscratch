@@ -1,5 +1,7 @@
 reaction_SKH
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:COAL_TO_COKE_SKH]

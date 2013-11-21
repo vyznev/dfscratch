@@ -1,5 +1,7 @@
 creature_insects_STL
 
+$Id$
+
 [OBJECT:CREATURE]
 
 

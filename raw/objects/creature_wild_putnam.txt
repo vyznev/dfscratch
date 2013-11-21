@@ -1,5 +1,7 @@
 creature_wild_putnam
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:INTELLIGENT_GRASS_CREATURE_PUTNAM]

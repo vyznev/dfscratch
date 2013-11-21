@@ -1,5 +1,7 @@
 creature_intelligent_ztg
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:LIZARDFOLK_ZTG]

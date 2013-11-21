@@ -1,5 +1,7 @@
 body_simple_halfling
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:CORE_HLG] ## torso, abdomen, head, common vertebrate organs in one package. no teeth or ears.

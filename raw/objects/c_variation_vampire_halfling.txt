@@ -1,5 +1,7 @@
 c_variation_vampire_halfling
 
+$Id$
+
 [OBJECT:CREATURE_VARIATION]
 
 [CREATURE_VARIATION:HAS_VAMPIRES_HLG]

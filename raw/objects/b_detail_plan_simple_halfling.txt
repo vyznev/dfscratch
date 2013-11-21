@@ -1,5 +1,7 @@
 b_detail_plan_simple_halfling
 
+$Id$
+
 [OBJECT:BODY_DETAIL_PLAN]
 
 #--material and tissue templates--#

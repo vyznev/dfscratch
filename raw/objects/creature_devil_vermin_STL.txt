@@ -1,5 +1,7 @@
 creature_devil_vermin_STL
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:WISP_OF_RAGE_STL]

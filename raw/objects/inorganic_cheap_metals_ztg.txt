@@ -1,5 +1,7 @@
 inorganic_cheap_metals_ztg
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:COPPER_ZTG]

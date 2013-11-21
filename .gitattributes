@@ -12,3 +12,6 @@
 /data/dipscript/text/*	binary -eol
 /data/help/*		binary -eol
 /data/index		binary -eol
+
+# Expand $Id$ strings in raws, to make merging in non-Git edits easier
+/raw/objects/*.txt ident

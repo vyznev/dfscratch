@@ -1,5 +1,7 @@
 material_template_ztg
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:SINEW_ZTG]

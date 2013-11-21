@@ -1,5 +1,7 @@
 interaction_bfel
 
+$Id$
+
 [OBJECT:INTERACTION] 
 
 [INTERACTION:ELF_RESURRECT_BFEL]

@@ -1,5 +1,7 @@
 material_template_mastahcheese
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:ALCOHOL_TEMPLATE_MC] I had to add in a base alchohol for template purposes, most of this is vanilla DF stuff because it's based off of real-life alchohol properties. I did change a bit of it, though.

@@ -1,5 +1,7 @@
 b_detail_plan_gnorm
 
+$Id$
+
 [OBJECT:BODY_DETAIL_PLAN]
 
 [BODY_DETAIL_PLAN:CORE_MATERIALS_GNORM]

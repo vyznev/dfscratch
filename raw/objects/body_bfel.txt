@@ -1,5 +1,7 @@
 body_bfel
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:SEA_ANGEL]

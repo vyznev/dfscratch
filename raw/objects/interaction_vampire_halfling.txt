@@ -1,5 +1,7 @@
 interaction_vampire_halfling
 
+$Id$
+
 [OBJECT:INTERACTION]
 
 [INTERACTION:VAMPIRISM_FREQUENCY_REDUCER_HLG]

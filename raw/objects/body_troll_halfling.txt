@@ -1,5 +1,7 @@
 body_troll_halfling
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:HORNS_HEAD_HLG]

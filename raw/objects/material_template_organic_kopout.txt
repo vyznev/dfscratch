@@ -1,5 +1,7 @@
 material_template_organic_kopout
 
+$Id$
+
 
 [OBJECT:MATERIAL_TEMPLATE]
 

@@ -1,5 +1,7 @@
 tissue_template_shutupdf
 
+$Id$
+
 [OBJECT:TISSUE_TEMPLATE]
 
 [TISSUE_TEMPLATE:FLAME_TEMPLATE]

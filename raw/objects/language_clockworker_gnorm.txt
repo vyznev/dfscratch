@@ -1,5 +1,7 @@
 language_clockworker_gnorm
 
+$Id$
+
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:BOTCHED_FRENCH_GNORM]

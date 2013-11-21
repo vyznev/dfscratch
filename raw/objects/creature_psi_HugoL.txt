@@ -1,5 +1,7 @@
 creature_psi_HugoL
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:PSIONIC_HUGOL]

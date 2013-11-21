@@ -1,5 +1,7 @@
 reaction_HugoL
 
+$Id$
+
 [OBJECT:REACTION]
 
 [REACTION:PSIWEAVE_HUGOL]

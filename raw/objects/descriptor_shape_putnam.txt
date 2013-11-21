@@ -1,5 +1,7 @@
 descriptor_shape_putnam
 
+$Id$
+
 [OBJECT:DESCRIPTOR_SHAPE]
 
 [SHAPE:GOD_PUTNAM]

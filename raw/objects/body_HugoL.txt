@@ -1,5 +1,7 @@
 body_HugoL
 
+$Id$
+
 [OBJECT:BODY]
 
 [BODY:CEPHALOPOD_MANTLE]

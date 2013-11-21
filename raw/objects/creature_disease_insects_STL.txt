@@ -1,5 +1,7 @@
 creature_disease_insects_STL
 
+$Id$
+
 !OBJECT:CREATURE!
 
 I had so much fun adding in Breakbone Fever, I decided to add a few more plagues! If you want these in your game, all you have to do it replace the "!" in the line above with the appropriate brackets.

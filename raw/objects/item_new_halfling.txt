@@ -1,5 +1,7 @@
 item_new_halfling.txt
 
+$Id$
+
 [OBJECT:ITEM]
 
 [ITEM_ARMOR:LEATHER_WAISTCOAT_HLG]

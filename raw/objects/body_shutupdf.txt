@@ -1,5 +1,7 @@
 body_shutupdf
 
+$Id$
+
 !!CAUTION!! this file was made from my error messages and its function is to suppress DF error messages at worldgen.
 
 Long term effects are unknown.

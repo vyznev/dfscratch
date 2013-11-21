@@ -1,5 +1,7 @@
 entity_HugoL
 
+$Id$
+
 [OBJECT:ENTITY]
 
 [ENTITY:MONASTIC_HUGOL]

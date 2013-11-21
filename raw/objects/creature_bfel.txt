@@ -1,5 +1,7 @@
 creature_bfel
 
+$Id$
+
 [OBJECT:CREATURE]
 
 [CREATURE:ELF]

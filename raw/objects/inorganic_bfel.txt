@@ -1,5 +1,7 @@
 inorganic_bfel
 
+$Id$
+
 [OBJECT:INORGANIC]
 
 [INORGANIC:JADED_SLADE_BFEL]

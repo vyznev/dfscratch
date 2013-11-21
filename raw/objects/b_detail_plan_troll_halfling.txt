@@ -1,5 +1,7 @@
 b_detail_plan_troll_halfling
 
+$Id$
+
 [OBJECT:BODY_DETAIL_PLAN]
 
 [BODY_DETAIL_PLAN:REGENERATING_MUSCLE_CORE_TISSUES_HLG]

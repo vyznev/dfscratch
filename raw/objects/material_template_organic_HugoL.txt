@@ -1,5 +1,7 @@
 material_template_organic_HugoL
 
+$Id$
+
 [OBJECT:MATERIAL_TEMPLATE]
 
 [MATERIAL_TEMPLATE:SHELL_TEMPLATE_HUGOL] used Halfling's teeth, as both shell and teeth are made of a calcium enamel.

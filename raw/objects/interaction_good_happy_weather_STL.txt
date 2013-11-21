@@ -1,5 +1,7 @@
 interaction_good_happy_weather_STL
 
+$Id$
+
 [OBJECT:INTERACTION]
 
 [INTERACTION:ITS_RAINING_SUNSHINE_STL]

@@ -1,5 +1,7 @@
 language_english_halfling
 
+$Id$
+
 [OBJECT:LANGUAGE] ## sorted by symbol
 
 [TRANSLATION:SIMPLE_ENGLISH_HLG]

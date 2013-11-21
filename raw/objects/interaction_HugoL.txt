@@ -1,5 +1,7 @@
 interaction_HugoL
 
+$Id$
+
 [OBJECT:INTERACTION]
 
 [INTERACTION:PSI_SLOW_HUGOL]

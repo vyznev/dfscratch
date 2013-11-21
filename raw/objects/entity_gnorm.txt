@@ -1,5 +1,7 @@
 entity_gnorm
 
+$Id$
+
 [OBJECT:ENTITY]
 
 [ENTITY:CHERUBIM]
